@@ -16,8 +16,11 @@ powercfg /hibernate off
 echo === 2/3 Ligando o bot sozinho quando o Windows entrar ===
 schtasks /create /tn "Chatbot Atacadao - iniciar" /tr "\"%~dp0iniciar.bat\" auto" /sc onlogon /rl highest /f
 
-echo === 3/3 Conferindo a cada 10 minutos se o bot continua de pe ===
+echo === 3/4 Conferindo a cada 10 minutos se o bot continua de pe ===
 schtasks /create /tn "Chatbot Atacadao - vigia" /tr "\"%~dp0iniciar.bat\" auto" /sc minute /mo 10 /rl highest /f
+
+echo === 4/4 Abrindo o painel (icone ao lado do relogio) quando o Windows entrar ===
+schtasks /create /tn "Chatbot Atacadao - painel" /tr "\"%~dp0painel.bat\"" /sc onlogon /it /f
 
 echo.
 echo Pronto. Faltam 2 ajustes manuais (veja o LEIA-ME-WINDOWS.md):

@@ -1,4 +1,4 @@
-# Rodando o bot 24 horas num PC com Windows
+﻿# Rodando o bot 24 horas num PC com Windows
 
 Requisitos: Windows 10 (22H2) ou 11, 8 GB de RAM, internet estável. O PC fica ligado na tomada o tempo todo.
 
@@ -49,3 +49,16 @@ Mudanças nos arquivos da pasta `catalogo` (textos, preços, vídeo, `config.jso
   memory=5GB
   ```
   e reinicie.
+
+
+## Painel, configurações e atualização
+
+- **Painel** (ícone verde/laranja/vermelho ao lado do relógio): abre sozinho ao entrar no Windows, ou pelo `painel.bat`. Mostra cada número, reconecta, liga/desliga e avisa se algo cair.
+- **Configurações** (`configuracoes.bat`): dados da loja, pausa, modo teste, números, e troca do vídeo de instalação e da imagem do catálogo.
+- **Número novo** (`adicionar-numero.bat`): pede atendente, link e grupo, mostra o QR Code e liga ao bot.
+
+### Atualização com um clique
+1. No GitHub: **Settings > Developer settings > Personal access tokens > Fine-grained tokens > Generate new token**.
+2. Em *Repository access* escolha **Only select repositories > chatbot-atacadao**; em *Permissions > Contents* marque **Read-only**. Gere e copie.
+3. No arquivo `.env` deste PC, adicione a linha `GITHUB_TOKEN=` com o token colado depois do `=`.
+4. Pronto: o painel confere a cada 6 horas e avisa quando houver versão nova; ou clique em `atualizar.bat`. Se algo der errado, ele volta sozinho para a versão anterior. Seus arquivos (.env, config, números, fotos, vídeo) nunca são substituídos.

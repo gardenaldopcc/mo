@@ -13,6 +13,12 @@ until docker compose exec -T postgres pg_isready -U "$POSTGRES_USER" >/dev/null 
 echo "▶ 2/6 Criando as tabelas do fluxo..."
 docker compose exec -T -e PGOPTIONS="-c client_min_messages=warning" postgres psql -q -U "$POSTGRES_USER" -d bot -f /docker-entrypoint-initdb.d/fluxo/tabelas.sql
 
+# SO_FLUXO=1 (usado pela atualização automática): reaproveita a chave e os modelos já instalados
+if [ "${SO_FLUXO:-}" = 1 ]; then
+  [ -f .modelos ] || { echo "   ❌ Falta o arquivo .modelos: rode o instalador completo uma vez."; exit 1; }
+  source .modelos
+  echo "▶ 3-4/6 Usando a chave e os modelos já instalados ($MODELO | $TRANSCRICAO)"
+else
 echo "▶ 3/6 Chave da OpenAI"
 if [ -z "$OPENAI_KEY" ]; then
   read -r -s -p "   Cole a sua chave da OpenAI (sk-...) e aperte Enter (ela não aparece na tela): " OPENAI_KEY; echo
@@ -67,6 +73,7 @@ done
 [ -n "$TRANSCRICAO" ] || { TRANSCRICAO=whisper-1; echo "   ⚠️  Não consegui testar a transcrição de áudio; usando whisper-1."; }
 rm -f /tmp/teste-audio-chatbot.aiff /tmp/teste-audio-chatbot.m4a 2>/dev/null || true
 echo "   ✅ Modelo do chat: $MODELO  |  Áudios: $TRANSCRICAO"
+printf 'MODELO=%s\nTRANSCRICAO=%s\n' "$MODELO" "$TRANSCRICAO" > .modelos
 
 echo "▶ 4/6 Criando as credenciais no n8n..."
 python3 - "$POSTGRES_USER" "$POSTGRES_PASSWORD" "$EVOLUTION_API_KEY" "$OPENAI_KEY" > /tmp/credenciais-chatbot.json <<'PY'
@@ -82,6 +89,7 @@ PY
 docker compose exec -T n8n sh -c 'cat > /tmp/cred.json' < /tmp/credenciais-chatbot.json
 rm -f /tmp/credenciais-chatbot.json
 docker compose exec -T n8n sh -c 'n8n import:credentials --input=/tmp/cred.json >/dev/null 2>&1; rm -f /tmp/cred.json'
+fi
 
 echo "▶ 5/6 Importando e ativando o fluxo..."
 python3 - "$MODELO" "$TRANSCRICAO" <<'PY' | docker compose exec -T n8n sh -c 'cat > /tmp/wf.json'
