@@ -1,0 +1,57 @@
+[
+  {
+    "id": "se-01-adega-zl",
+    "nome": "Rogério",
+    "estado": "SP",
+    "cidade": "São Paulo (Guaianases, zona leste)",
+    "perfil": "negocio",
+    "descricao": "Dono de adega de bairro, 34 anos, compra Skol latão e Brahma toda semana no atacarejo. Sem tempo, responde entre um cliente e outro, quer preço na hora. CNPJ fica com a contadora.",
+    "estilo": "Paulistano de periferia: 'salve', 'mano', 'meu', 'véi', 'pô', 'tipo', 'da hora', 'firmeza', 'suave', 'colar', 'tmj'. Mensagens curtas, sem acento, várias seguidas, '??' quando acha que está demorando.",
+    "primeira_mensagem": "salve mano, aqui é da adega na zona leste, cês tem skol latão pra revenda? qual o preço do fardo",
+    "objetivo_final": "Saber o preço do latão, se chega até sexta e se o freezer tem custo/multa; baixar o app e fazer o primeiro pedido."
+  },
+  {
+    "id": "se-02-bar-bh",
+    "nome": "Cida",
+    "estado": "MG",
+    "cidade": "Belo Horizonte (Barreiro)",
+    "perfil": "negocio",
+    "descricao": "Dona de um barzinho pequeno, 52 anos, viu o anúncio do freezer. Vende uns 10 engradados de litrinho por semana. É MEI, não sabe o CNPJ de cabeça e diz que é ruim de celular.",
+    "estilo": "Mineira de BH: 'uai', 'sô', 'trem', 'barzim', 'piquititim', 'ocê', 'num', 'intão', 'demais da conta', 'nó', 'moço'. Escreve como fala, chama o atendente de 'moço'.",
+    "primeira_mensagem": "boa tarde moço, uai vi o anuncio de vcs do freezer. tenho um barzim aqui no barreiro em bh, como que funciona esse trem?",
+    "objetivo_final": "Entender se ganha o freezer sem pagar e sem precisar comprar R$ 2.200 de uma vez; no fim pede para alguém da equipe ajudar a fazer o pedido."
+  },
+  {
+    "id": "se-03-rede-campinas",
+    "nome": "Marcelo Tavares",
+    "estado": "SP",
+    "cidade": "Campinas",
+    "perfil": "negocio",
+    "descricao": "Comprador de uma rede regional com 6 supermercados, volume de 800 a 1.000 caixas/mês. Quer prazo de pagamento (boleto 28/35 dias), política comercial e contato da área comercial. Avalia o fornecedor pela seriedade.",
+    "estilo": "Corporativo e formal: frases completas, pontuação correta, 'Prezado', 'Gostaria de entender', 'Aguardo retorno', 'naturalmente'. Não usa emoji e estranha emoji/gíria do outro lado.",
+    "primeira_mensagem": "Boa tarde. Me chamo Marcelo, sou comprador de uma rede com 6 supermercados na região de Campinas. Gostaria de entender as condições comerciais para aquisição recorrente de cervejas e refrigerantes (volume estimado de 800 a 1.000 caixas/mês). Vocês trabalham com prazo de pagamento?",
+    "objetivo_final": "Ser atendido por alguém da área comercial com proposta de prazo e tabela por volume; não pretende comprar pelo app sem negociar antes."
+  },
+  {
+    "id": "se-04-churras-laje-rj",
+    "nome": "Thiago (Thiaguinho)",
+    "estado": "RJ",
+    "cidade": "Rio de Janeiro (Complexo da Maré)",
+    "perfil": "consumo",
+    "descricao": "27 anos, organizando churrasco na laje no sábado para uns 40 amigos. Quer ajuda para saber quanta cerveja levar, se chega até sábado na comunidade, e acha o mínimo de R$ 500 alto. Quer gelo e carvão.",
+    "estilo": "Carioca: 'coé', 'mermão', 'parceiro', 'caraca', 'sinistro', 'maneiro', 'tá ligado', 'na moral', 'cerva', 'churras', 'maluco', 'kkkk'. Desconfia quando o bot parece robô.",
+    "primeira_mensagem": "coé mermão, tô organizando um churras na laje sábado agora pra uns 40 maluco, quero ver umas cerva com vcs",
+    "objetivo_final": "Montar um pedido de pelo menos R$ 500 (cerveja + refri + gelo/carvão) com entrega no sábado na comunidade."
+  },
+  {
+    "id": "se-05-mineiro-desconfiado",
+    "nome": "Geraldo",
+    "estado": "MG",
+    "cidade": "Uberlândia",
+    "perfil": "consumo",
+    "descricao": "61 anos, aposentado, já caiu em golpe de bebida barata no Facebook. Acha o preço da Heineken (R$ 36,24 o fardo de 12) bom demais para ser verdade; quer CNPJ e endereço antes de qualquer coisa. Acha R$ 500 muito para consumo próprio.",
+    "estilo": "Mineiro do Triângulo, desconfiado: 'sô', 'uai', 'trem', 'num', 'ano' no singular ('61 ano'), 'hum', 'tô achando esquisito', 'vou pensar'. Mensagens médias, pergunta tudo duas vezes.",
+    "primeira_mensagem": "bom dia. sô, vi o preço de vcs da heineken, 36 reais o fardo de 12? isso aí num é golpe não né? aqui em uberlândia num acha nem a 60",
+    "objetivo_final": "Conferir CNPJ/empresa e ter certeza de que paga só na entrega; se não tiver prova concreta, desiste ('vou pensar')."
+  }
+]

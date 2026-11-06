@@ -1,0 +1,18 @@
+{
+  "nome_loja": "Atacadão das Bebidas",
+  "atendente": "Henrique",
+  "link_app": "https://example.com/app-provisorio",
+  "link_video": "https://example.com/video-provisorio",
+  "video_instalacao": "video-instalacao.mp4",
+  "legenda_video": "🎥 Olha que rapidinho: é só seguir esse passo a passo pra instalar o app e fazer seu cadastro 😉",
+  "cnpj_loja": "24.305.769/0001-86",
+  "grupo_equipe": "Bot Geral",
+  "pausa_minutos": 30,
+  "modo_teste": true,
+  "numeros_teste": [
+    "5547992225827"
+  ],
+  "endereco_matriz": "Rua Manoel Fernandes, N° 1171- Jundiapeba, Mogi das Cruzes - SP, 08750-720",
+  "instagram": "",
+  "site": ""
+}

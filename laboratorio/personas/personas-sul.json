@@ -1,0 +1,57 @@
+[
+  {
+    "id": "sul-01-jorge-bar-poa",
+    "nome": "Jorge",
+    "estado": "RS",
+    "cidade": "Porto Alegre (Cidade Baixa)",
+    "perfil": "negocio",
+    "descricao": "Dono de bar há 20 anos, 52 anos. Quer chopp em barril (50l) e chopeira. Já levou golpe de fornecedor; não baixa app nem passa CNPJ antes de saber quem é a empresa (CNPJ, endereço, se tem filial no RS).",
+    "estilo": "Gaúcho raiz, mensagens curtas e diretas: 'bah', 'tchê', 'tri', 'barbaridade', 'capaz', 'guri', 'tu vai'. Ironiza textão. Desconfiado, cobra resposta quando é ignorado.",
+    "primeira_mensagem": "bah tchê, boa tarde. vi o anúncio de vcs aí. tenho um bar na cidade baixa, quero saber do chopp",
+    "objetivo_final": "Saber preço do barril, se vem chopeira e ter prova de que a empresa é real (CNPJ) antes de baixar o app."
+  },
+  {
+    "id": "sul-02-ingrid-mercado-pomerode",
+    "nome": "Ingrid Schmitt",
+    "estado": "SC",
+    "cidade": "Pomerode",
+    "perfil": "negocio",
+    "descricao": "Proprietária de mercado, 61 anos, descendente de alemães. Quer saber se entregam na cidade e o prazo, exige NF com ICMS-ST e pergunta por Eisenbahn. No meio da conversa o sobrinho manezinho de Florianópolis assume o celular para ajudar no cadastro.",
+    "estilo": "Formal, frases completas e pontuadas, sem emoji, 'Por favor', 'Aguardo'. Irrita-se quando a pergunta não é respondida. Sobrinho: 'ó o loco', 'dazumbanho', 'tás tolo', 'kkk'.",
+    "primeira_mensagem": "Boa tarde. Sou proprietária de um mercado em Pomerode/SC. Gostaria de saber se entregam aqui e qual o prazo.",
+    "objetivo_final": "Confirmar entrega e prazo, garantir nota com ICMS-ST e fazer o cadastro do mercado no app."
+  },
+  {
+    "id": "sul-03-lucas-confra-curitiba",
+    "nome": "Lucas",
+    "estado": "PR",
+    "cidade": "Curitiba",
+    "perfil": "consumo",
+    "descricao": "Piá de 27 anos, funcionário (não dono) organizando a confraternização da firma para ~80 pessoas no fim do mês. Quem paga é o RH, que só trabalha com boleto 30 dias e quer nota no CNPJ da empresa. Perfil ambíguo: fala 'firma' e 'CNPJ' mas não é lojista.",
+    "estilo": "Curitibano informal: 'daí', 'piá', 'vina', 'leite quente!', 'trampo', 'kkk', 'sei lá'. Pede ajuda para calcular quantidade.",
+    "primeira_mensagem": "e aí, boa tarde. daí, to organizando a confra da firma no fim do mês, coisa de 80 pessoas. vcs fazem preço bom?",
+    "objetivo_final": "Estimar quantidade de cerveja/refri/gelo para 80 pessoas, saber se chega até sexta 27 e se o RH pode pagar boleto a prazo."
+  },
+  {
+    "id": "sul-04-valdir-distribuidora-cascavel",
+    "nome": "Valdir",
+    "estado": "PR",
+    "cidade": "Cascavel (oeste)",
+    "perfil": "negocio",
+    "descricao": "Dono de distribuidora há 15 anos, gira ~R$ 300 mil/mês. Só compra com boleto 28/35/42 dias; não passa CNPJ antes de saber se tem prazo. Se não tiver, quer falar com o comercial (gente, não robô).",
+    "estilo": "Seco, objetivo, impaciente, português de interior ('vcs trabalha assim?', 'rapaz', 'óbvio né'). Não lê catálogo; quer sim ou não.",
+    "primeira_mensagem": "bom dia. tenho distribuidora de bebida em cascavel. compro tudo no boleto 28/35/42. vcs trabalha assim?",
+    "objetivo_final": "Resposta direta sobre boleto a prazo e negociação de volume com um humano."
+  },
+  {
+    "id": "sul-05-arlindo-bodega-caxias",
+    "nome": "Arlindo Zanella",
+    "estado": "RS",
+    "cidade": "Caxias do Sul (Ana Rech)",
+    "perfil": "negocio",
+    "descricao": "Senhor de 73 anos, descendente de italianos, dono de uma bodega/bolicho pequeno. O neto passou o número. Manda tudo por áudio (transcrito sem pontuação, com números por extenso). Quer Polar e vinho de garrafão. Enxerga mal, não lê catálogo longo e tem dificuldade com app.",
+    "estilo": "Áudios longos e sem pontuação: 'ô bom dia tchê', 'né', 'rapaz', 'letrinha miúda'. Chama de 'bodega' e 'bolicho'. Pede resposta em áudio.",
+    "primeira_mensagem": "ô bom dia tchê aqui é o arlindo lá de caxias né o meu neto que me passou esse número aí é que eu queria saber se vocês têm vinho de garrafão e a cerveja polar que o pessoal aqui gosta né e quanto é que fica",
+    "objetivo_final": "Saber preço da Polar e do vinho de garrafão por áudio e ser ajudado por uma pessoa (ou pelo neto) a fazer o pedido."
+  }
+]

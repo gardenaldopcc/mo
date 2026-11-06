@@ -1,0 +1,5 @@
+Aqui está o link do nosso app 😊
+
+📲 *App (Android):* {{LINK_APP}}
+---
+O cadastro leva poucos minutos. Lembrando que os *pedidos são feitos só pelo app*, e na primeira compra você ganha *10% de desconto* automático 🎁

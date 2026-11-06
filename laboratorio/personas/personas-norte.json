@@ -1,0 +1,57 @@
+[
+  {
+    "id": "norte-01-flutuante-manaus",
+    "nome": "Raimundo Nonato",
+    "estado": "AM",
+    "cidade": "Manaus (Tarumã-Açu)",
+    "perfil": "negocio",
+    "descricao": "Dono de bar flutuante no Tarumã, vende cerveja e refrigerante para banhistas no fim de semana. Compra hoje de distribuidor da cidade e leva de rabeta até o flutuante. Quer saber se a entrega chega no flutuante, quanto custa o fardo e se ganha freezer.",
+    "estilo": "Amazonense, informal, sem acento e sem pontuação: 'mano', 'rapaz', 'leseira', 'tu é doido', 'é chibata', 'uma ruma de'. Internet ruim: mensagens picadas ('manda o' / 'manda o link dnv q nao abriu') e repetidas. Às vezes manda áudio.",
+    "primeira_mensagem": "boa tarde mano, vcs entregam aqui em manaus? tenho um flutuante no tarumã",
+    "objetivo_final": "Entender como a bebida chega no flutuante (barco ou ponto em terra), ver os preços de Skol lata e Brahma 600, saber do freezer em comodato e baixar o app para fazer o 1º pedido de uns R$ 2.200."
+  },
+  {
+    "id": "norte-02-ribeirinho-coari",
+    "nome": "Francisco Chagas (Chico)",
+    "estado": "AM",
+    "cidade": "Comunidade São José, zona rural de Coari",
+    "perfil": "negocio",
+    "descricao": "Comerciante ribeirinho de 58 anos com uma taberna na beira do rio, sem CNPJ. A mercadoria chega de recreio ou balsa vinda de Manaus até o porto de Coari, e de lá segue de rabeta. Na comunidade quase não tem sinal (só perto da escola), não há maquininha e circula pouco dinheiro vivo. Compra uns R$ 3.000 por mês.",
+    "estilo": "Educado e formal ('sim senhor', 'pois é'), frases longas por áudio transcrito, com termos ribeirinhos ('recreio', 'rabeta', 'beira', 'comunidade', 'encomenda'). Não sabe mexer em aplicativo: quem mexe é a neta. Responde horas depois, quando pega sinal.",
+    "primeira_mensagem": "bom dia, aqui é o chico lá da comunidade são josé, perto de coari. eu tenho um comerciozinho aqui na beira, queria saber se vocês entregam aqui que aqui é só de barco, o recreio sai de manaus",
+    "objetivo_final": "Saber com segurança onde a mercadoria é entregue (porto de Coari ou na comunidade), o prazo real de barco, como pagar sem sinal nem maquininha e se a cerveja chega gelada; só faz o pedido se alguém da equipe ajudar no app."
+  },
+  {
+    "id": "norte-03-mercearia-belem",
+    "nome": "Rosilene",
+    "estado": "PA",
+    "cidade": "Belém (bairro da Pedreira)",
+    "perfil": "negocio",
+    "descricao": "Dona de mercearia de bairro, 47 anos, desconfiada de preço muito baixo (já levou calote de fornecedor). Vende muito Cerpa e Tijuca e tem cascos de 600 ml da Cerpa. Usa iPhone; o filho tem Android.",
+    "estilo": "Paraense: 'égua', 'mana', 'maninho', 'é de rocha?', 'eras', 'pai d'égua', 'te mete', 'pitiú' (no sentido de 'cheiro de coisa estranha'). Mensagens curtas e em sequência; repete a idade quando o bot não entende ('égua, já disse que tenho 47 mana').",
+    "primeira_mensagem": "boa tarde",
+    "objetivo_final": "Confirmar que não é golpe (pagar só na entrega), ver se tem Cerpa/Tijuca, se pode usar os cascos que já tem, se entrega sábado de manhã na Pedreira, e fazer o cadastro pelo Android do filho."
+  },
+  {
+    "id": "norte-04-aniversario-porto-velho",
+    "nome": "Kauã",
+    "estado": "RO",
+    "cidade": "Porto Velho",
+    "perfil": "consumo",
+    "descricao": "Jovem de 19 anos que faz 20 no sábado e quer bebida para o aniversário (Heineken e gelo). Acha R$ 500 muito e vai dividir com os amigos. A festa tem data fixa: se a entrega atrasar, a compra não serve.",
+    "estilo": "Gíria jovem: 'eae mano', 'massa', 'top', 'kkkk', '500 conto', 'pô'. Nome de WhatsApp com emoji. Manda a mesma mensagem duas vezes quando a internet falha e manda áudio que às vezes não dá para entender.",
+    "primeira_mensagem": "eae mano, quanto fica pra entregar umas bebida aqui em porto velho? é pro meu niver",
+    "objetivo_final": "Ter certeza de que chega até sábado à tarde, entender o mínimo de R$ 500 e o desconto, pagar no Pix na entrega e baixar o app."
+  },
+  {
+    "id": "norte-05-distribuidora-palmas",
+    "nome": "Distribuidora Capim Dourado (dono: Wanderson)",
+    "estado": "TO",
+    "cidade": "Palmas",
+    "perfil": "negocio",
+    "descricao": "Dono de distribuidora com CNPJ que compra uns 200 engradados de Brahma 600 por mês. O fornecedor local cobra R$ 99 o engradado, entrega no dia seguinte e vende no boleto de 28 dias. Confunde a loja com o Atacadão (Carrefour) da Av. Teotônio Segurado.",
+    "estilo": "Tocantinense com sotaque goiano: 'uai', 'sô', 'trem', 'ocê'. Direto e comparador, quer número e não conversa. Manda o CNPJ antes de a pergunta chegar e fica irritado ao ter que repetir.",
+    "primeira_mensagem": "boa tarde. tenho distribuidora aqui em palmas, quero saber o preço de vcs no engradado da brahma 600, que o meu fornecedor daqui ta fazendo 99 conto",
+    "objetivo_final": "Comparar o preço final (com os 10% da 1ª compra e o desconto por volume) com o do fornecedor local, saber se tem boleto a prazo e se o prazo de entrega é aceitável, e falar com o comercial antes de fazer o 1º pedido."
+  }
+]

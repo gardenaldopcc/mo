@@ -1,0 +1,2378 @@
+{
+ "destaques": [
+  "Cerveja Heineken Lata 350ml",
+  "Cerveja Brahma Chopp GRF 600ml",
+  "Cerveja Skol Pilsen Lata 350ml",
+  "Coca-Cola Pet 2l",
+  "Energético Red Bull 250ml Lata",
+  "Johnnie Walker Red Label GRF 1l"
+ ],
+ "produtos": [
+  {
+   "categoria": "REFRIGERANTES ANTARCTICA",
+   "nome": "Guaraná Antarctica Black Zero Lata 350ml",
+   "embalagem": "Fardo (6 un)",
+   "preco": 13.92,
+   "preco_txt": "R$ 13,92"
+  },
+  {
+   "categoria": "REFRIGERANTES ANTARCTICA",
+   "nome": "Guaraná Antarctica Black Zero 2l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 22.68,
+   "preco_txt": "R$ 22,68"
+  },
+  {
+   "categoria": "REFRIGERANTES ANTARCTICA",
+   "nome": "Guaraná Antarctica Zero 600ml",
+   "embalagem": "Fardo (10 un)",
+   "preco": 23.88,
+   "preco_txt": "R$ 23,88"
+  },
+  {
+   "categoria": "REFRIGERANTES ANTARCTICA",
+   "nome": "Guaraná Antarctica Zero 1.5l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 23.22,
+   "preco_txt": "R$ 23,22"
+  },
+  {
+   "categoria": "REFRIGERANTES ANTARCTICA",
+   "nome": "Guaraná Antarctica Zero 2l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 27.24,
+   "preco_txt": "R$ 27,24"
+  },
+  {
+   "categoria": "REFRIGERANTES ANTARCTICA",
+   "nome": "Guaraná Antarctica Pet 1l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 21.48,
+   "preco_txt": "R$ 21,48"
+  },
+  {
+   "categoria": "REFRIGERANTES ANTARCTICA",
+   "nome": "Guaraná Antarctica RV 290ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 20.28,
+   "preco_txt": "R$ 20,28"
+  },
+  {
+   "categoria": "REFRIGERANTES ANTARCTICA",
+   "nome": "Guaraná Antarctica RV 1l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 21.6,
+   "preco_txt": "R$ 21,60"
+  },
+  {
+   "categoria": "REFRIGERANTES ANTARCTICA",
+   "nome": "Guaraná Antarctica Pet 237ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 10.68,
+   "preco_txt": "R$ 10,68"
+  },
+  {
+   "categoria": "REFRIGERANTES ANTARCTICA",
+   "nome": "Guaraná Antarctica Pet 200ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 6.48,
+   "preco_txt": "R$ 6,48"
+  },
+  {
+   "categoria": "REFRIGERANTES ANTARCTICA",
+   "nome": "Guaraná Antarctica Pet 500ml",
+   "embalagem": "Fardo (10 un)",
+   "preco": 21.24,
+   "preco_txt": "R$ 21,24"
+  },
+  {
+   "categoria": "REFRIGERANTES ANTARCTICA",
+   "nome": "Guaraná Antarctica Pet 600ml",
+   "embalagem": "Fardo (10 un)",
+   "preco": 27.72,
+   "preco_txt": "R$ 27,72"
+  },
+  {
+   "categoria": "REFRIGERANTES ANTARCTICA",
+   "nome": "Guaraná Antarctica Pet 1.5l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 17.4,
+   "preco_txt": "R$ 17,40"
+  },
+  {
+   "categoria": "REFRIGERANTES ANTARCTICA",
+   "nome": "Guaraná Antarctica Pet 2l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 29.94,
+   "preco_txt": "R$ 29,94"
+  },
+  {
+   "categoria": "REFRIGERANTES ANTARCTICA",
+   "nome": "Guaraná Antarctica Pet 2.25l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 33.0,
+   "preco_txt": "R$ 33,00"
+  },
+  {
+   "categoria": "REFRIGERANTES ANTARCTICA",
+   "nome": "Guaraná Antarctica Zero 2.5l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 30.0,
+   "preco_txt": "R$ 30,00"
+  },
+  {
+   "categoria": "REFRIGERANTES ANTARCTICA",
+   "nome": "Guaraná Antarctica Pet 3.3l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 41.82,
+   "preco_txt": "R$ 41,82"
+  },
+  {
+   "categoria": "REFRIGERANTES ANTARCTICA",
+   "nome": "Guaraná Antarctica Pet 3l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 34.56,
+   "preco_txt": "R$ 34,56"
+  },
+  {
+   "categoria": "REFRIGERANTES ANTARCTICA",
+   "nome": "Guaraná Antarctica Lata 350ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 20.28,
+   "preco_txt": "R$ 20,28"
+  },
+  {
+   "categoria": "REFRIGERANTES ANTARCTICA",
+   "nome": "Guaraná Antarctica Lata 269ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 14.85,
+   "preco_txt": "R$ 14,85"
+  },
+  {
+   "categoria": "REFRIGERANTES COCA-COLA",
+   "nome": "Coca-Cola Zero Lata 350ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 14.76,
+   "preco_txt": "R$ 14,76"
+  },
+  {
+   "categoria": "REFRIGERANTES COCA-COLA",
+   "nome": "Coca-Cola Pet 2l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 23.04,
+   "preco_txt": "R$ 23,04"
+  },
+  {
+   "categoria": "REFRIGERANTES COCA-COLA",
+   "nome": "Coca-Cola Zero Pet 600ml",
+   "embalagem": "Fardo (10 un)",
+   "preco": 24.6,
+   "preco_txt": "R$ 24,60"
+  },
+  {
+   "categoria": "REFRIGERANTES COCA-COLA",
+   "nome": "Coca-Cola Zero Pet 1.5l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 24.12,
+   "preco_txt": "R$ 24,12"
+  },
+  {
+   "categoria": "REFRIGERANTES COCA-COLA",
+   "nome": "Coca-Cola Zero 2l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 28.14,
+   "preco_txt": "R$ 28,14"
+  },
+  {
+   "categoria": "REFRIGERANTES COCA-COLA",
+   "nome": "Coca-Cola Pet 1l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 25.44,
+   "preco_txt": "R$ 25,44"
+  },
+  {
+   "categoria": "REFRIGERANTES COCA-COLA",
+   "nome": "Coca-Cola RV 290ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 20.28,
+   "preco_txt": "R$ 20,28"
+  },
+  {
+   "categoria": "REFRIGERANTES COCA-COLA",
+   "nome": "Coca-Cola RV 1l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 21.6,
+   "preco_txt": "R$ 21,60"
+  },
+  {
+   "categoria": "REFRIGERANTES COCA-COLA",
+   "nome": "Coca-Cola Pet 237ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 11.88,
+   "preco_txt": "R$ 11,88"
+  },
+  {
+   "categoria": "REFRIGERANTES COCA-COLA",
+   "nome": "Coca-Cola Pet 200ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 6.48,
+   "preco_txt": "R$ 6,48"
+  },
+  {
+   "categoria": "REFRIGERANTES COCA-COLA",
+   "nome": "Coca-Cola Pet 600ml",
+   "embalagem": "Fardo (10 un)",
+   "preco": 29.4,
+   "preco_txt": "R$ 29,40"
+  },
+  {
+   "categoria": "REFRIGERANTES COCA-COLA",
+   "nome": "Coca-Cola Pet 1.5l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 17.88,
+   "preco_txt": "R$ 17,88"
+  },
+  {
+   "categoria": "REFRIGERANTES COCA-COLA",
+   "nome": "Coca-Cola Pet 2.25l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 31.74,
+   "preco_txt": "R$ 31,74"
+  },
+  {
+   "categoria": "REFRIGERANTES COCA-COLA",
+   "nome": "Coca-Cola Pet 3.3l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 33.42,
+   "preco_txt": "R$ 33,42"
+  },
+  {
+   "categoria": "REFRIGERANTES COCA-COLA",
+   "nome": "Coca-Cola Lata 350ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 23.88,
+   "preco_txt": "R$ 23,88"
+  },
+  {
+   "categoria": "REFRIGERANTES COCA-COLA",
+   "nome": "Coca-Cola Lata 269ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 17.88,
+   "preco_txt": "R$ 17,88"
+  },
+  {
+   "categoria": "REFRIGERANTES FANTA / KUAT / SCHWEPPES",
+   "nome": "Fanta Laranja Pet RV 2l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 19.44,
+   "preco_txt": "R$ 19,44"
+  },
+  {
+   "categoria": "REFRIGERANTES FANTA / KUAT / SCHWEPPES",
+   "nome": "Fanta Laranja Pet 600ml",
+   "embalagem": "Fardo (10 un)",
+   "preco": 14.46,
+   "preco_txt": "R$ 14,46"
+  },
+  {
+   "categoria": "REFRIGERANTES FANTA / KUAT / SCHWEPPES",
+   "nome": "Fanta Laranja Pet 1.5l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 17.94,
+   "preco_txt": "R$ 17,94"
+  },
+  {
+   "categoria": "REFRIGERANTES FANTA / KUAT / SCHWEPPES",
+   "nome": "Fanta Laranja Pet 2l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 19.14,
+   "preco_txt": "R$ 19,14"
+  },
+  {
+   "categoria": "REFRIGERANTES FANTA / KUAT / SCHWEPPES",
+   "nome": "Fanta Laranja Lata 269ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 17.88,
+   "preco_txt": "R$ 17,88"
+  },
+  {
+   "categoria": "REFRIGERANTES FANTA / KUAT / SCHWEPPES",
+   "nome": "Fanta Laranja Lata 350ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 21.48,
+   "preco_txt": "R$ 21,48"
+  },
+  {
+   "categoria": "REFRIGERANTES FANTA / KUAT / SCHWEPPES",
+   "nome": "Fanta Maçã Verde Pet 2l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 18.54,
+   "preco_txt": "R$ 18,54"
+  },
+  {
+   "categoria": "REFRIGERANTES FANTA / KUAT / SCHWEPPES",
+   "nome": "Fanta Maçã Verde Lata 350ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 15.48,
+   "preco_txt": "R$ 15,48"
+  },
+  {
+   "categoria": "REFRIGERANTES FANTA / KUAT / SCHWEPPES",
+   "nome": "Fanta Uva 1.5l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 17.94,
+   "preco_txt": "R$ 17,94"
+  },
+  {
+   "categoria": "REFRIGERANTES FANTA / KUAT / SCHWEPPES",
+   "nome": "Fanta Uva Pet 2l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 18.72,
+   "preco_txt": "R$ 18,72"
+  },
+  {
+   "categoria": "REFRIGERANTES FANTA / KUAT / SCHWEPPES",
+   "nome": "Fanta Uva Lata 350ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 19.08,
+   "preco_txt": "R$ 19,08"
+  },
+  {
+   "categoria": "REFRIGERANTES FANTA / KUAT / SCHWEPPES",
+   "nome": "Kuat Lata 350ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 19.08,
+   "preco_txt": "R$ 19,08"
+  },
+  {
+   "categoria": "REFRIGERANTES FANTA / KUAT / SCHWEPPES",
+   "nome": "Schweppes Citrus Pet 1.5l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 24.18,
+   "preco_txt": "R$ 24,18"
+  },
+  {
+   "categoria": "REFRIGERANTES FANTA / KUAT / SCHWEPPES",
+   "nome": "Schweppes Citrus Lata 350ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 23.88,
+   "preco_txt": "R$ 23,88"
+  },
+  {
+   "categoria": "REFRIGERANTES FANTA / KUAT / SCHWEPPES",
+   "nome": "Schweppes Tônica Lata 350ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 23.64,
+   "preco_txt": "R$ 23,64"
+  },
+  {
+   "categoria": "REFRIGERANTES FANTA / KUAT / SCHWEPPES",
+   "nome": "Sprite Lata 350ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 14.4,
+   "preco_txt": "R$ 14,40"
+  },
+  {
+   "categoria": "REFRIGERANTES PEPSI",
+   "nome": "Pepsi Cola Pet 237ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 12.6,
+   "preco_txt": "R$ 12,60"
+  },
+  {
+   "categoria": "REFRIGERANTES PEPSI",
+   "nome": "Pepsi Cola Pet 600ml",
+   "embalagem": "Fardo (10 un)",
+   "preco": 26.88,
+   "preco_txt": "R$ 26,88"
+  },
+  {
+   "categoria": "REFRIGERANTES PEPSI",
+   "nome": "Pepsi Cola Pet 1.5l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 20.16,
+   "preco_txt": "R$ 20,16"
+  },
+  {
+   "categoria": "REFRIGERANTES PEPSI",
+   "nome": "Pepsi Cola Pet 2l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 22.56,
+   "preco_txt": "R$ 22,56"
+  },
+  {
+   "categoria": "REFRIGERANTES PEPSI",
+   "nome": "Pepsi Cola Pet 2.5l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 28.06,
+   "preco_txt": "R$ 28,06"
+  },
+  {
+   "categoria": "REFRIGERANTES PEPSI",
+   "nome": "Pepsi Cola Pet 3.3l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 32.4,
+   "preco_txt": "R$ 32,40"
+  },
+  {
+   "categoria": "REFRIGERANTES PEPSI",
+   "nome": "Pepsi Cola Lata 269ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 16.35,
+   "preco_txt": "R$ 16,35"
+  },
+  {
+   "categoria": "REFRIGERANTES DIVERSOS",
+   "nome": "Soda Limonada RV 290ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 16.32,
+   "preco_txt": "R$ 16,32"
+  },
+  {
+   "categoria": "REFRIGERANTES DIVERSOS",
+   "nome": "Soda Limonada Pet 200ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 6.84,
+   "preco_txt": "R$ 6,84"
+  },
+  {
+   "categoria": "REFRIGERANTES DIVERSOS",
+   "nome": "Soda Limonada Pet 1l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 11.34,
+   "preco_txt": "R$ 11,34"
+  },
+  {
+   "categoria": "REFRIGERANTES DIVERSOS",
+   "nome": "Soda Limonada Pet 1.5l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 16.2,
+   "preco_txt": "R$ 16,20"
+  },
+  {
+   "categoria": "REFRIGERANTES DIVERSOS",
+   "nome": "Soda Limonada Diet Lata 350ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 36.12,
+   "preco_txt": "R$ 36,12"
+  },
+  {
+   "categoria": "REFRIGERANTES DIVERSOS",
+   "nome": "Sukita Laranja RV 290ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 17.04,
+   "preco_txt": "R$ 17,04"
+  },
+  {
+   "categoria": "REFRIGERANTES DIVERSOS",
+   "nome": "Sukita Laranja Pet 200ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 6.6,
+   "preco_txt": "R$ 6,60"
+  },
+  {
+   "categoria": "REFRIGERANTES DIVERSOS",
+   "nome": "Sukita Laranja Pet 1l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 15.24,
+   "preco_txt": "R$ 15,24"
+  },
+  {
+   "categoria": "REFRIGERANTES DIVERSOS",
+   "nome": "Sukita Laranja Pet 1.5l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 16.2,
+   "preco_txt": "R$ 16,20"
+  },
+  {
+   "categoria": "REFRIGERANTES DIVERSOS",
+   "nome": "Sukita Laranja Pet 2.5l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 12.54,
+   "preco_txt": "R$ 12,54"
+  },
+  {
+   "categoria": "REFRIGERANTES DIVERSOS",
+   "nome": "Sukita Uva Lata 350ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 15.72,
+   "preco_txt": "R$ 15,72"
+  },
+  {
+   "categoria": "REFRIGERANTES DIVERSOS",
+   "nome": "Soda Limonada 237ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 9.48,
+   "preco_txt": "R$ 9,48"
+  },
+  {
+   "categoria": "REFRIGERANTES DIVERSOS",
+   "nome": "Soda Limonada 600ml",
+   "embalagem": "Fardo (10 un)",
+   "preco": 25.32,
+   "preco_txt": "R$ 25,32"
+  },
+  {
+   "categoria": "REFRIGERANTES DIVERSOS",
+   "nome": "Soda Limonada 2l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 21.6,
+   "preco_txt": "R$ 21,60"
+  },
+  {
+   "categoria": "REFRIGERANTES DIVERSOS",
+   "nome": "Soda Limonada Lata 350ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 12.84,
+   "preco_txt": "R$ 12,84"
+  },
+  {
+   "categoria": "REFRIGERANTES DIVERSOS",
+   "nome": "Soda Limonada Zero Pet 2l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 25.2,
+   "preco_txt": "R$ 25,20"
+  },
+  {
+   "categoria": "REFRIGERANTES DIVERSOS",
+   "nome": "Soda Limonada Zero Lata 350ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 12.96,
+   "preco_txt": "R$ 12,96"
+  },
+  {
+   "categoria": "REFRIGERANTES DIVERSOS",
+   "nome": "Sukita Laranja Pet 237ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 9.48,
+   "preco_txt": "R$ 9,48"
+  },
+  {
+   "categoria": "REFRIGERANTES DIVERSOS",
+   "nome": "Sukita Laranja Pet 600ml",
+   "embalagem": "Fardo (10 un)",
+   "preco": 24.6,
+   "preco_txt": "R$ 24,60"
+  },
+  {
+   "categoria": "REFRIGERANTES DIVERSOS",
+   "nome": "Sukita Laranja Pet 2l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 21.48,
+   "preco_txt": "R$ 21,48"
+  },
+  {
+   "categoria": "REFRIGERANTES DIVERSOS",
+   "nome": "Sukita Laranja Lata 350ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 10.68,
+   "preco_txt": "R$ 10,68"
+  },
+  {
+   "categoria": "REFRIGERANTES DIVERSOS",
+   "nome": "Sukita Uva Pet 237ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 9.48,
+   "preco_txt": "R$ 9,48"
+  },
+  {
+   "categoria": "REFRIGERANTES DIVERSOS",
+   "nome": "Sukita Uva Pet 2l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 25.74,
+   "preco_txt": "R$ 25,74"
+  },
+  {
+   "categoria": "REFRIGERANTES DIVERSOS",
+   "nome": "Guaraná Baré Tutti Frutti Pet 2l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 22.5,
+   "preco_txt": "R$ 22,50"
+  },
+  {
+   "categoria": "REFRIGERANTES DIVERSOS",
+   "nome": "Guaraná Baré Tutti Frutti Lata 350ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 16.32,
+   "preco_txt": "R$ 16,32"
+  },
+  {
+   "categoria": "REFRIGERANTES DIVERSOS",
+   "nome": "H2OH! Limão Pet 500ml",
+   "embalagem": "Fardo (10 un)",
+   "preco": 26.28,
+   "preco_txt": "R$ 26,28"
+  },
+  {
+   "categoria": "REFRIGERANTES DIVERSOS",
+   "nome": "H2OH! Limão Pet 1.5l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 22.08,
+   "preco_txt": "R$ 22,08"
+  },
+  {
+   "categoria": "REFRIGERANTES DIVERSOS",
+   "nome": "H2OH! Limão e Maçã Pet 500ml",
+   "embalagem": "Fardo (10 un)",
+   "preco": 10.08,
+   "preco_txt": "R$ 10,08"
+  },
+  {
+   "categoria": "REFRIGERANTES DIVERSOS",
+   "nome": "H2OH! Citrus Pet 500ml",
+   "embalagem": "Fardo (10 un)",
+   "preco": 26.28,
+   "preco_txt": "R$ 26,28"
+  },
+  {
+   "categoria": "REFRIGERANTES DIVERSOS",
+   "nome": "H2OH! Citrus Pet 1.5l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 19.86,
+   "preco_txt": "R$ 19,86"
+  },
+  {
+   "categoria": "REFRIGERANTES DIVERSOS",
+   "nome": "H2OH! Larancini Pet 500ml",
+   "embalagem": "Fardo (10 un)",
+   "preco": 23.52,
+   "preco_txt": "R$ 23,52"
+  },
+  {
+   "categoria": "REFRIGERANTES DIVERSOS",
+   "nome": "H2OH! Laranja Pet 500ml",
+   "embalagem": "Fardo (10 un)",
+   "preco": 26.29,
+   "preco_txt": "R$ 26,29"
+  },
+  {
+   "categoria": "REFRIGERANTES DIVERSOS",
+   "nome": "H2OH! Laranja Pet 1.5l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 19.86,
+   "preco_txt": "R$ 19,86"
+  },
+  {
+   "categoria": "REFRIGERANTES DIVERSOS",
+   "nome": "H2OH! Limão e Maçã Pet 1.5l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 19.86,
+   "preco_txt": "R$ 19,86"
+  },
+  {
+   "categoria": "REFRIGERANTES DIVERSOS",
+   "nome": "H2OH! Limoneto Pet 1.5l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 15.72,
+   "preco_txt": "R$ 15,72"
+  },
+  {
+   "categoria": "ISOTÔNICOS",
+   "nome": "Gatorade Frutas Cítricas Pet 500ml",
+   "embalagem": "Fardo (10 un)",
+   "preco": 19.02,
+   "preco_txt": "R$ 19,02"
+  },
+  {
+   "categoria": "ISOTÔNICOS",
+   "nome": "Gatorade Laranja Pet 500ml",
+   "embalagem": "Fardo (10 un)",
+   "preco": 19.2,
+   "preco_txt": "R$ 19,20"
+  },
+  {
+   "categoria": "ISOTÔNICOS",
+   "nome": "Gatorade Limão Pet 500ml",
+   "embalagem": "Fardo (10 un)",
+   "preco": 21.06,
+   "preco_txt": "R$ 21,06"
+  },
+  {
+   "categoria": "ISOTÔNICOS",
+   "nome": "Gatorade Manga Pet 500ml",
+   "embalagem": "Fardo (10 un)",
+   "preco": 18.54,
+   "preco_txt": "R$ 18,54"
+  },
+  {
+   "categoria": "ISOTÔNICOS",
+   "nome": "Gatorade Maracujá Pet 500ml",
+   "embalagem": "Fardo (10 un)",
+   "preco": 19.44,
+   "preco_txt": "R$ 19,44"
+  },
+  {
+   "categoria": "ISOTÔNICOS",
+   "nome": "Gatorade Morango com Maracujá Pet 500ml",
+   "embalagem": "Fardo (10 un)",
+   "preco": 20.7,
+   "preco_txt": "R$ 20,70"
+  },
+  {
+   "categoria": "ISOTÔNICOS",
+   "nome": "Gatorade Tangerina pet 500ml",
+   "embalagem": "Fardo (10 un)",
+   "preco": 21.06,
+   "preco_txt": "R$ 21,06"
+  },
+  {
+   "categoria": "ISOTÔNICOS",
+   "nome": "Gatorade Tangerina Pet 1l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 27.12,
+   "preco_txt": "R$ 27,12"
+  },
+  {
+   "categoria": "ISOTÔNICOS",
+   "nome": "Gatorade Uva Pet 500ml",
+   "embalagem": "Fardo (10 un)",
+   "preco": 19.74,
+   "preco_txt": "R$ 19,74"
+  },
+  {
+   "categoria": "ENERGÉTICOS",
+   "nome": "Energético Bally 2l Tradicional e Sabores",
+   "embalagem": "Fardo (6 un)",
+   "preco": 32.4,
+   "preco_txt": "R$ 32,40"
+  },
+  {
+   "categoria": "ENERGÉTICOS",
+   "nome": "Energético Red Bull 250ml Lata",
+   "embalagem": "Fardo (24 un)",
+   "preco": 119.76,
+   "preco_txt": "R$ 119,76"
+  },
+  {
+   "categoria": "ENERGÉTICOS",
+   "nome": "Energético Monster 473ml Lata",
+   "embalagem": "Fardo (6 un)",
+   "preco": 40.0,
+   "preco_txt": "R$ 40,00"
+  },
+  {
+   "categoria": "ENERGÉTICOS",
+   "nome": "Energético Long One 2l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 29.5,
+   "preco_txt": "R$ 29,50"
+  },
+  {
+   "categoria": "ENERGÉTICOS",
+   "nome": "Fusion Pet 1l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 41.16,
+   "preco_txt": "R$ 41,16"
+  },
+  {
+   "categoria": "ENERGÉTICOS",
+   "nome": "Fusion Lata 250ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 22.5,
+   "preco_txt": "R$ 22,50"
+  },
+  {
+   "categoria": "ENERGÉTICOS",
+   "nome": "Fusion Pêssego Lata 310ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 23.88,
+   "preco_txt": "R$ 23,88"
+  },
+  {
+   "categoria": "ENERGÉTICOS",
+   "nome": "Fusion Limão e Hortelã Lata 310ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 23.88,
+   "preco_txt": "R$ 23,88"
+  },
+  {
+   "categoria": "ENERGÉTICOS",
+   "nome": "Fusion Laranja Lata 310ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 23.88,
+   "preco_txt": "R$ 23,88"
+  },
+  {
+   "categoria": "ÁGUA / ÁGUA DE COCO / SUCOS",
+   "nome": "Água mineral sem gás Crystal 500ml",
+   "embalagem": "Fardo (10 un)",
+   "preco": 10.68,
+   "preco_txt": "R$ 10,68"
+  },
+  {
+   "categoria": "ÁGUA / ÁGUA DE COCO / SUCOS",
+   "nome": "Água mineral com gás Crystal 500ml",
+   "embalagem": "Fardo (10 un)",
+   "preco": 11.4,
+   "preco_txt": "R$ 11,40"
+  },
+  {
+   "categoria": "ÁGUA / ÁGUA DE COCO / SUCOS",
+   "nome": "Água mineral sem gás Crystal 1l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 16.5,
+   "preco_txt": "R$ 16,50"
+  },
+  {
+   "categoria": "ÁGUA / ÁGUA DE COCO / SUCOS",
+   "nome": "Água mineral com gás Crystal 1l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 17.34,
+   "preco_txt": "R$ 17,34"
+  },
+  {
+   "categoria": "ÁGUA / ÁGUA DE COCO / SUCOS",
+   "nome": "Água mineral sem gás Crystal 2l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 18.12,
+   "preco_txt": "R$ 18,12"
+  },
+  {
+   "categoria": "ÁGUA / ÁGUA DE COCO / SUCOS",
+   "nome": "Água mineral com gás Crystal 2l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 18.78,
+   "preco_txt": "R$ 18,78"
+  },
+  {
+   "categoria": "ÁGUA / ÁGUA DE COCO / SUCOS",
+   "nome": "Água de coco Kero Coco 1l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 23.94,
+   "preco_txt": "R$ 23,94"
+  },
+  {
+   "categoria": "ÁGUA / ÁGUA DE COCO / SUCOS",
+   "nome": "Água de coco Kero Coco 200ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 42.96,
+   "preco_txt": "R$ 42,96"
+  },
+  {
+   "categoria": "ÁGUA / ÁGUA DE COCO / SUCOS",
+   "nome": "Água de coco Coco Quadrado 200ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 33.36,
+   "preco_txt": "R$ 33,36"
+  },
+  {
+   "categoria": "ÁGUA / ÁGUA DE COCO / SUCOS",
+   "nome": "Suco Del Valle Néctar 1l Uva",
+   "embalagem": "Fardo (6 un)",
+   "preco": 22.74,
+   "preco_txt": "R$ 22,74"
+  },
+  {
+   "categoria": "ÁGUA / ÁGUA DE COCO / SUCOS",
+   "nome": "Suco Del Valle Néctar Maracujá 1l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 22.74,
+   "preco_txt": "R$ 22,74"
+  },
+  {
+   "categoria": "ÁGUA / ÁGUA DE COCO / SUCOS",
+   "nome": "Suco Del Valle Néctar Laranja 1l",
+   "embalagem": "Fardo (6 un)",
+   "preco": 22.74,
+   "preco_txt": "R$ 22,74"
+  },
+  {
+   "categoria": "ÁGUA / ÁGUA DE COCO / SUCOS",
+   "nome": "Suco Del Valle Néctar Uva Lata 290ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 47.76,
+   "preco_txt": "R$ 47,76"
+  },
+  {
+   "categoria": "ÁGUA / ÁGUA DE COCO / SUCOS",
+   "nome": "Suco Del Valle Néctar Maracujá Lata 290ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 47.76,
+   "preco_txt": "R$ 47,76"
+  },
+  {
+   "categoria": "ÁGUA / ÁGUA DE COCO / SUCOS",
+   "nome": "Suco Del Valle Néctar Laranja Lata 290ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 47.76,
+   "preco_txt": "R$ 47,76"
+  },
+  {
+   "categoria": "CERVEJAS ANTARCTICA",
+   "nome": "Cerveja Antarctica Original GRF 600ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 130.08,
+   "preco_txt": "R$ 130,08"
+  },
+  {
+   "categoria": "CERVEJAS ANTARCTICA",
+   "nome": "Cerveja Antarctica Pilsen GRF 300ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 28.56,
+   "preco_txt": "R$ 28,56"
+  },
+  {
+   "categoria": "CERVEJAS ANTARCTICA",
+   "nome": "Cerveja Antarctica Pilsen GRF 355ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 25.2,
+   "preco_txt": "R$ 25,20"
+  },
+  {
+   "categoria": "CERVEJAS ANTARCTICA",
+   "nome": "Cerveja Antarctica Pilsen GRF 600ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 125.52,
+   "preco_txt": "R$ 125,52"
+  },
+  {
+   "categoria": "CERVEJAS ANTARCTICA",
+   "nome": "Cerveja Antarctica Pilsen Lata 269ml",
+   "embalagem": "Fardo (15 un)",
+   "preco": 15.75,
+   "preco_txt": "R$ 15,75"
+  },
+  {
+   "categoria": "CERVEJAS ANTARCTICA",
+   "nome": "Cerveja Antarctica Pilsen Lata 350ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 21.24,
+   "preco_txt": "R$ 21,24"
+  },
+  {
+   "categoria": "CERVEJAS ANTARCTICA",
+   "nome": "Cerveja Antarctica Pilsen Lata 473ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 29.28,
+   "preco_txt": "R$ 29,28"
+  },
+  {
+   "categoria": "CERVEJAS ANTARCTICA",
+   "nome": "Cerveja Antarctica Sub-zero GRF 600ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 95.76,
+   "preco_txt": "R$ 95,76"
+  },
+  {
+   "categoria": "CERVEJAS ANTARCTICA",
+   "nome": "Cerveja Antarctica Original Lata 350ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 21.24,
+   "preco_txt": "R$ 21,24"
+  },
+  {
+   "categoria": "CERVEJAS ANTARCTICA",
+   "nome": "Cerveja Antarctica Pilsen GRF 1l",
+   "embalagem": "Fardo (12 un)",
+   "preco": 50.88,
+   "preco_txt": "R$ 50,88"
+  },
+  {
+   "categoria": "CERVEJAS ANTARCTICA",
+   "nome": "Cerveja Antarctica Sub-zero Lata 269ml",
+   "embalagem": "Fardo (15 un)",
+   "preco": 17.4,
+   "preco_txt": "R$ 17,40"
+  },
+  {
+   "categoria": "CERVEJAS ANTARCTICA",
+   "nome": "Cerveja Antarctica Sub-zero Lata 350ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 22.68,
+   "preco_txt": "R$ 22,68"
+  },
+  {
+   "categoria": "CERVEJAS ANTARCTICA",
+   "nome": "Cerveja Antarctica Original 300ml GRF",
+   "embalagem": "Fardo (24 un)",
+   "preco": 28.56,
+   "preco_txt": "R$ 28,56"
+  },
+  {
+   "categoria": "CERVEJAS ANTARCTICA",
+   "nome": "Cerveja Antarctica Original 269ml Lata",
+   "embalagem": "Fardo (15 un)",
+   "preco": 18.3,
+   "preco_txt": "R$ 18,30"
+  },
+  {
+   "categoria": "CERVEJAS BECKS",
+   "nome": "Cerveja Beck's GRF 275ml",
+   "embalagem": "Fardo (15 un)",
+   "preco": 37.8,
+   "preco_txt": "R$ 37,80"
+  },
+  {
+   "categoria": "CERVEJAS BECKS",
+   "nome": "Cerveja Beck's GRF 330ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 38.4,
+   "preco_txt": "R$ 38,40"
+  },
+  {
+   "categoria": "CERVEJAS BECKS",
+   "nome": "Cerveja Beck's Lata 350ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 32.88,
+   "preco_txt": "R$ 32,88"
+  },
+  {
+   "categoria": "CERVEJAS HEINEKEN",
+   "nome": "Cerveja Heineken GRF 250ml",
+   "embalagem": "Fardo (15 un)",
+   "preco": 25.56,
+   "preco_txt": "R$ 25,56"
+  },
+  {
+   "categoria": "CERVEJAS HEINEKEN",
+   "nome": "Cerveja Heineken GRF 330ml",
+   "embalagem": "Fardo (6 un)",
+   "preco": 18.72,
+   "preco_txt": "R$ 18,72"
+  },
+  {
+   "categoria": "CERVEJAS HEINEKEN",
+   "nome": "Cerveja Heineken GRF 355ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 19.98,
+   "preco_txt": "R$ 19,98"
+  },
+  {
+   "categoria": "CERVEJAS HEINEKEN",
+   "nome": "Cerveja Heineken Lata 473ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 34.99,
+   "preco_txt": "R$ 34,99"
+  },
+  {
+   "categoria": "CERVEJAS HEINEKEN",
+   "nome": "Cerveja Heineken GRF 600ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 153.36,
+   "preco_txt": "R$ 153,36"
+  },
+  {
+   "categoria": "CERVEJAS HEINEKEN",
+   "nome": "Cerveja Heineken Lata 269ml",
+   "embalagem": "Fardo (8 un)",
+   "preco": 16.4,
+   "preco_txt": "R$ 16,40"
+  },
+  {
+   "categoria": "CERVEJAS HEINEKEN",
+   "nome": "Cerveja Heineken Lata 350ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 36.24,
+   "preco_txt": "R$ 36,24"
+  },
+  {
+   "categoria": "CERVEJAS HEINEKEN",
+   "nome": "Cerveja Heineken Barril 5l",
+   "embalagem": "Unidade",
+   "preco": 48.19,
+   "preco_txt": "R$ 48,19"
+  },
+  {
+   "categoria": "CERVEJAS BUDWEISER",
+   "nome": "Cerveja Budweiser GRF 330ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 17.34,
+   "preco_txt": "R$ 17,34"
+  },
+  {
+   "categoria": "CERVEJAS BUDWEISER",
+   "nome": "Cerveja Budweiser GRF 550ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 49.2,
+   "preco_txt": "R$ 49,20"
+  },
+  {
+   "categoria": "CERVEJAS BUDWEISER",
+   "nome": "Cerveja Budweiser Lata 473ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 24.16,
+   "preco_txt": "R$ 24,16"
+  },
+  {
+   "categoria": "CERVEJAS BUDWEISER",
+   "nome": "Cerveja Budweiser Lata 410ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 35.64,
+   "preco_txt": "R$ 35,64"
+  },
+  {
+   "categoria": "CERVEJAS BUDWEISER",
+   "nome": "Cerveja Budweiser GRF 343ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 20.58,
+   "preco_txt": "R$ 20,58"
+  },
+  {
+   "categoria": "CERVEJAS BUDWEISER",
+   "nome": "Cerveja Budweiser GRF 600ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 114.0,
+   "preco_txt": "R$ 114,00"
+  },
+  {
+   "categoria": "CERVEJAS BUDWEISER",
+   "nome": "Cerveja Budweiser GRF 269ml",
+   "embalagem": "Fardo (15 un)",
+   "preco": 15.36,
+   "preco_txt": "R$ 15,36"
+  },
+  {
+   "categoria": "CERVEJAS BUDWEISER",
+   "nome": "Cerveja Budweiser Lata 350ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 25.08,
+   "preco_txt": "R$ 25,08"
+  },
+  {
+   "categoria": "CERVEJAS BUDWEISER",
+   "nome": "Cerveja Budweiser GRF 1l",
+   "embalagem": "Fardo (12 un)",
+   "preco": 83.88,
+   "preco_txt": "R$ 83,88"
+  },
+  {
+   "categoria": "CERVEJAS SKOL",
+   "nome": "Cerveja Skol Pilsen GRF 275ml",
+   "embalagem": "Fardo (15 un)",
+   "preco": 25.44,
+   "preco_txt": "R$ 25,44"
+  },
+  {
+   "categoria": "CERVEJAS SKOL",
+   "nome": "Cerveja Skol Pilsen Lata 550ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 37.44,
+   "preco_txt": "R$ 37,44"
+  },
+  {
+   "categoria": "CERVEJAS SKOL",
+   "nome": "Cerveja Skol Pilsen GAD 473ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 35.88,
+   "preco_txt": "R$ 35,88"
+  },
+  {
+   "categoria": "CERVEJAS SKOL",
+   "nome": "Cerveja Skol Puro Malte GRF 275ml",
+   "embalagem": "Fardo (15 un)",
+   "preco": 22.68,
+   "preco_txt": "R$ 22,68"
+  },
+  {
+   "categoria": "CERVEJAS SKOL",
+   "nome": "Cerveja Skol Puro Malte GRF 300ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 26.16,
+   "preco_txt": "R$ 26,16"
+  },
+  {
+   "categoria": "CERVEJAS SKOL",
+   "nome": "Cerveja Skol Puro Malte GRF 600ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 110.16,
+   "preco_txt": "R$ 110,16"
+  },
+  {
+   "categoria": "CERVEJAS SKOL",
+   "nome": "Cerveja Skol Puro Malte Lata 269ml",
+   "embalagem": "Fardo (15 un)",
+   "preco": 19.35,
+   "preco_txt": "R$ 19,35"
+  },
+  {
+   "categoria": "CERVEJAS SKOL",
+   "nome": "Cerveja Skol Puro Malte Lata 350ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 20.88,
+   "preco_txt": "R$ 20,88"
+  },
+  {
+   "categoria": "CERVEJAS SKOL",
+   "nome": "Cerveja Skol Puro Malte Lata 473ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 31.44,
+   "preco_txt": "R$ 31,44"
+  },
+  {
+   "categoria": "CERVEJAS SKOL",
+   "nome": "Cerveja Skol Puro Malte GRF 1l",
+   "embalagem": "Fardo (12 un)",
+   "preco": 70.68,
+   "preco_txt": "R$ 70,68"
+  },
+  {
+   "categoria": "CERVEJAS SKOL",
+   "nome": "Cerveja Skol Pilsen GRF 300ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 38.19,
+   "preco_txt": "R$ 38,19"
+  },
+  {
+   "categoria": "CERVEJAS SKOL",
+   "nome": "Cerveja Skol Pilsen GRF 355ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 18.54,
+   "preco_txt": "R$ 18,54"
+  },
+  {
+   "categoria": "CERVEJAS SKOL",
+   "nome": "Cerveja Skol Pilsen GRF 600ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 110.16,
+   "preco_txt": "R$ 110,16"
+  },
+  {
+   "categoria": "CERVEJAS SKOL",
+   "nome": "Cerveja Skol Pilsen Lata 269ml",
+   "embalagem": "Fardo (15 un)",
+   "preco": 22.35,
+   "preco_txt": "R$ 22,35"
+  },
+  {
+   "categoria": "CERVEJAS SKOL",
+   "nome": "Cerveja Skol Pilsen Lata 350ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 21.84,
+   "preco_txt": "R$ 21,84"
+  },
+  {
+   "categoria": "CERVEJAS SKOL",
+   "nome": "Cerveja Skol Pilsen Lata 473ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 25.08,
+   "preco_txt": "R$ 25,08"
+  },
+  {
+   "categoria": "CERVEJAS SKOL",
+   "nome": "Cerveja Skol Pilsen GRF 1l",
+   "embalagem": "Fardo (12 un)",
+   "preco": 83.88,
+   "preco_txt": "R$ 83,88"
+  },
+  {
+   "categoria": "CERVEJAS SKOL",
+   "nome": "Cerveja Skol Ultra GRF 275ml",
+   "embalagem": "Fardo (15 un)",
+   "preco": 23.76,
+   "preco_txt": "R$ 23,76"
+  },
+  {
+   "categoria": "CERVEJAS SKOL",
+   "nome": "Cerveja Skol Ultra Lata 310ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 23.88,
+   "preco_txt": "R$ 23,88"
+  },
+  {
+   "categoria": "CERVEJAS SKOL",
+   "nome": "Cerveja Skol Beats Lata 269ml",
+   "embalagem": "Fardo (15 un)",
+   "preco": 27.75,
+   "preco_txt": "R$ 27,75"
+  },
+  {
+   "categoria": "CERVEJAS SKOL",
+   "nome": "Cerveja Skol Beats Extreme Lata 269ml",
+   "embalagem": "Fardo (15 un)",
+   "preco": 28.35,
+   "preco_txt": "R$ 28,35"
+  },
+  {
+   "categoria": "CERVEJAS SKOL",
+   "nome": "Cerveja Skol Beats GRF 330ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 38.28,
+   "preco_txt": "R$ 38,28"
+  },
+  {
+   "categoria": "CERVEJAS SKOL",
+   "nome": "Cerveja Skol Beats Extreme GRF 313ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 39.96,
+   "preco_txt": "R$ 39,96"
+  },
+  {
+   "categoria": "CERVEJAS BRAHMA",
+   "nome": "Cerveja Brahma Extra Red Lager Lata 350ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 23.88,
+   "preco_txt": "R$ 23,88"
+  },
+  {
+   "categoria": "CERVEJAS BRAHMA",
+   "nome": "Cerveja Brahma Extra Weiss Lata 350ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 23.88,
+   "preco_txt": "R$ 23,88"
+  },
+  {
+   "categoria": "CERVEJAS BRAHMA",
+   "nome": "Cerveja Brahma Chopp GRF 300ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 34.32,
+   "preco_txt": "R$ 34,32"
+  },
+  {
+   "categoria": "CERVEJAS BRAHMA",
+   "nome": "Cerveja Brahma Chopp Lata 550ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 34.68,
+   "preco_txt": "R$ 34,68"
+  },
+  {
+   "categoria": "CERVEJAS BRAHMA",
+   "nome": "Cerveja Brahma Chopp Lata 473ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 33.12,
+   "preco_txt": "R$ 33,12"
+  },
+  {
+   "categoria": "CERVEJAS BRAHMA",
+   "nome": "Cerveja Brahma Chopp GRF 1l",
+   "embalagem": "Fardo (12 un)",
+   "preco": 61.44,
+   "preco_txt": "R$ 61,44"
+  },
+  {
+   "categoria": "CERVEJAS BRAHMA",
+   "nome": "Cerveja Brahma Chopp GRF 600ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 110.88,
+   "preco_txt": "R$ 110,88"
+  },
+  {
+   "categoria": "CERVEJAS BRAHMA",
+   "nome": "Cerveja Brahma Chopp Lata 269ml",
+   "embalagem": "Fardo (15 un)",
+   "preco": 23.25,
+   "preco_txt": "R$ 23,25"
+  },
+  {
+   "categoria": "CERVEJAS BRAHMA",
+   "nome": "Cerveja Brahma Chopp Lata 350ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 20.64,
+   "preco_txt": "R$ 20,64"
+  },
+  {
+   "categoria": "CERVEJAS BRAHMA",
+   "nome": "Cerveja Brahma Chopp Zero GRF 355ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 30.6,
+   "preco_txt": "R$ 30,60"
+  },
+  {
+   "categoria": "CERVEJAS BRAHMA",
+   "nome": "Cerveja Brahma Chopp Zero Lata 350ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 31.2,
+   "preco_txt": "R$ 31,20"
+  },
+  {
+   "categoria": "CERVEJAS BRAHMA",
+   "nome": "Cerveja Brahma Extra Lager Lata 269ml",
+   "embalagem": "Fardo (15 un)",
+   "preco": 21.0,
+   "preco_txt": "R$ 21,00"
+  },
+  {
+   "categoria": "CERVEJAS BRAHMA",
+   "nome": "Cerveja Brahma Extra Lager Lata 350ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 24.84,
+   "preco_txt": "R$ 24,84"
+  },
+  {
+   "categoria": "CERVEJAS BRAHMA",
+   "nome": "Cerveja Brahma Extra Lager Lata 473ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 33.6,
+   "preco_txt": "R$ 33,60"
+  },
+  {
+   "categoria": "CERVEJAS BRAHMA",
+   "nome": "Cerveja Brahma Extra Dark GRF 350ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 22.56,
+   "preco_txt": "R$ 22,56"
+  },
+  {
+   "categoria": "CHOPP BARRIL",
+   "nome": "Chopp Brahma Claro 30l",
+   "embalagem": "Unidade",
+   "preco": 379.21,
+   "preco_txt": "R$ 379,21"
+  },
+  {
+   "categoria": "CHOPP BARRIL",
+   "nome": "Chopp Brahma Claro 50l",
+   "embalagem": "Unidade",
+   "preco": 612.91,
+   "preco_txt": "R$ 612,91"
+  },
+  {
+   "categoria": "CHOPP BARRIL",
+   "nome": "Chopp Brahma Claro 100l",
+   "embalagem": "Unidade",
+   "preco": 1109.64,
+   "preco_txt": "R$ 1.109,64"
+  },
+  {
+   "categoria": "CHOPP BARRIL",
+   "nome": "Chopp Brahma Black 30l",
+   "embalagem": "Unidade",
+   "preco": 463.39,
+   "preco_txt": "R$ 463,39"
+  },
+  {
+   "categoria": "CERVEJA BOHEMIA",
+   "nome": "Cerveja Bohemia Confraria GRF 315ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 90.0,
+   "preco_txt": "R$ 90,00"
+  },
+  {
+   "categoria": "CERVEJA BOHEMIA",
+   "nome": "Cerveja Bohemia Confraria GRF 550ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 93.12,
+   "preco_txt": "R$ 93,12"
+  },
+  {
+   "categoria": "CERVEJA BOHEMIA",
+   "nome": "Cerveja Bohemia Escura GRF 355ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 62.4,
+   "preco_txt": "R$ 62,40"
+  },
+  {
+   "categoria": "CERVEJA BOHEMIA",
+   "nome": "Cerveja Bohemia Escura GRF 550ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 122.4,
+   "preco_txt": "R$ 122,40"
+  },
+  {
+   "categoria": "CERVEJA BOHEMIA",
+   "nome": "Cerveja Bohemia Escura Lata 350ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 30.0,
+   "preco_txt": "R$ 30,00"
+  },
+  {
+   "categoria": "CERVEJA BOHEMIA",
+   "nome": "Cerveja Bohemia Pilsen GRF 300ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 40.08,
+   "preco_txt": "R$ 40,08"
+  },
+  {
+   "categoria": "CERVEJA BOHEMIA",
+   "nome": "Cerveja Bohemia Escura Lata 269ml",
+   "embalagem": "Fardo (15 un)",
+   "preco": 23.55,
+   "preco_txt": "R$ 23,55"
+  },
+  {
+   "categoria": "CERVEJA BOHEMIA",
+   "nome": "Cerveja Bohemia Escura Lata 473ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 33.6,
+   "preco_txt": "R$ 33,60"
+  },
+  {
+   "categoria": "CERVEJA BOHEMIA",
+   "nome": "Cerveja Bohemia Weiss Trigo GRF 550ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 143.88,
+   "preco_txt": "R$ 143,88"
+  },
+  {
+   "categoria": "CERVEJA BOHEMIA",
+   "nome": "Cerveja Bohemia 838 Pale Ale GRF 300ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 46.8,
+   "preco_txt": "R$ 46,80"
+  },
+  {
+   "categoria": "CERVEJA BOHEMIA",
+   "nome": "Cerveja Bohemia Aura Lager GRF 300ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 46.8,
+   "preco_txt": "R$ 46,80"
+  },
+  {
+   "categoria": "CERVEJA BOHEMIA",
+   "nome": "Cerveja Bohemia 14 Weiss GRF 300ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 46.8,
+   "preco_txt": "R$ 46,80"
+  },
+  {
+   "categoria": "CERVEJA BOHEMIA",
+   "nome": "Cerveja Bohemia Bela Rosa GRF 300ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 46.8,
+   "preco_txt": "R$ 46,80"
+  },
+  {
+   "categoria": "CERVEJA BOHEMIA",
+   "nome": "Cerveja Bohemia CAARI GRF 300ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 46.8,
+   "preco_txt": "R$ 46,80"
+  },
+  {
+   "categoria": "CERVEJA BOHEMIA",
+   "nome": "Cerveja Bohemia Jabutipa GRF 300ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 46.8,
+   "preco_txt": "R$ 46,80"
+  },
+  {
+   "categoria": "CERVEJA BOHEMIA",
+   "nome": "Cerveja Bohemia Pilsen GRF 355ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 30.24,
+   "preco_txt": "R$ 30,24"
+  },
+  {
+   "categoria": "CERVEJA BOHEMIA",
+   "nome": "Cerveja Bohemia Pilsen GRF 600ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 134.16,
+   "preco_txt": "R$ 134,16"
+  },
+  {
+   "categoria": "CERVEJA BOHEMIA",
+   "nome": "Cerveja Bohemia Pilsen Lata 350ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 23.88,
+   "preco_txt": "R$ 23,88"
+  },
+  {
+   "categoria": "CERVEJA BOHEMIA",
+   "nome": "Cerveja Bohemia Pilsen GRF 990ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 83.88,
+   "preco_txt": "R$ 83,88"
+  },
+  {
+   "categoria": "CERVEJA ITAIPAVA",
+   "nome": "Cerveja Itaipava Pilsen GRF 600ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 95.76,
+   "preco_txt": "R$ 95,76"
+  },
+  {
+   "categoria": "CERVEJA ITAIPAVA",
+   "nome": "Cerveja Itaipava Pilsen GRF 1l",
+   "embalagem": "Fardo (12 un)",
+   "preco": 52.68,
+   "preco_txt": "R$ 52,68"
+  },
+  {
+   "categoria": "CERVEJA ITAIPAVA",
+   "nome": "Cerveja Itaipava Pilsen Lata 269ml",
+   "embalagem": "Fardo (15 un)",
+   "preco": 20.85,
+   "preco_txt": "R$ 20,85"
+  },
+  {
+   "categoria": "CERVEJA ITAIPAVA",
+   "nome": "Cerveja Itaipava Pilsen Lata 350ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 21.0,
+   "preco_txt": "R$ 21,00"
+  },
+  {
+   "categoria": "CERVEJA ITAIPAVA",
+   "nome": "Cerveja Itaipava Pilsen Lata 473ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 24.36,
+   "preco_txt": "R$ 24,36"
+  },
+  {
+   "categoria": "CERVEJAS POLAR",
+   "nome": "Cerveja Polar 473ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 26.28,
+   "preco_txt": "R$ 26,28"
+  },
+  {
+   "categoria": "CERVEJAS POLAR",
+   "nome": "Cerveja Polar 1l GRF",
+   "embalagem": "Fardo (12 un)",
+   "preco": 54.0,
+   "preco_txt": "R$ 54,00"
+  },
+  {
+   "categoria": "CERVEJAS SCHIN",
+   "nome": "Cerveja Schin 473ml Lata",
+   "embalagem": "Fardo (12 un)",
+   "preco": 24.6,
+   "preco_txt": "R$ 24,60"
+  },
+  {
+   "categoria": "CERVEJAS SCHIN",
+   "nome": "Cerveja Schin 350ml Lata",
+   "embalagem": "Fardo (12 un)",
+   "preco": 17.64,
+   "preco_txt": "R$ 17,64"
+  },
+  {
+   "categoria": "CERVEJAS SCHIN",
+   "nome": "Cerveja Schin 1l GRF",
+   "embalagem": "Fardo (12 un)",
+   "preco": 40.8,
+   "preco_txt": "R$ 40,80"
+  },
+  {
+   "categoria": "CERVEJAS KAISER",
+   "nome": "Cerveja Kaiser 600ml GRF",
+   "embalagem": "Fardo (24 un)",
+   "preco": 102.0,
+   "preco_txt": "R$ 102,00"
+  },
+  {
+   "categoria": "CERVEJAS KAISER",
+   "nome": "Cerveja Kaiser 350ml Lata",
+   "embalagem": "Fardo (12 un)",
+   "preco": 21.49,
+   "preco_txt": "R$ 21,49"
+  },
+  {
+   "categoria": "CERVEJAS KAISER",
+   "nome": "Cerveja Kaiser 473ml Lata",
+   "embalagem": "Fardo (12 un)",
+   "preco": 22.8,
+   "preco_txt": "R$ 22,80"
+  },
+  {
+   "categoria": "CERVEJAS IMPÉRIO",
+   "nome": "Cerveja Império 473ml Lata",
+   "embalagem": "Fardo (12 un)",
+   "preco": 27.99,
+   "preco_txt": "R$ 27,99"
+  },
+  {
+   "categoria": "CERVEJAS IMPÉRIO",
+   "nome": "Cerveja Império 269ml Lata",
+   "embalagem": "Fardo (15 un)",
+   "preco": 28.99,
+   "preco_txt": "R$ 28,99"
+  },
+  {
+   "categoria": "CERVEJAS IMPÉRIO",
+   "nome": "Cerveja Império 350ml Lata",
+   "embalagem": "Fardo (12 un)",
+   "preco": 33.6,
+   "preco_txt": "R$ 33,60"
+  },
+  {
+   "categoria": "CERVEJAS AMSTEL",
+   "nome": "Cerveja Amstel 473ml Lata",
+   "embalagem": "Fardo (12 un)",
+   "preco": 35.88,
+   "preco_txt": "R$ 35,88"
+  },
+  {
+   "categoria": "CERVEJAS AMSTEL",
+   "nome": "Cerveja Amstel 269ml Lata",
+   "embalagem": "Fardo (15 un)",
+   "preco": 21.0,
+   "preco_txt": "R$ 21,00"
+  },
+  {
+   "categoria": "CERVEJAS AMSTEL",
+   "nome": "Cerveja Amstel 350ml Lata",
+   "embalagem": "Fardo (12 un)",
+   "preco": 28.5,
+   "preco_txt": "R$ 28,50"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Caracu GRF 300ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 26.4,
+   "preco_txt": "R$ 26,40"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Colorado Appia GRF 300ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 54.0,
+   "preco_txt": "R$ 54,00"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Colorado Cauim GRF 300ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 54.0,
+   "preco_txt": "R$ 54,00"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Colorado Lager GRF 600ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 94.8,
+   "preco_txt": "R$ 94,80"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Coronita Extra GRF 210ml",
+   "embalagem": "Fardo (15 un)",
+   "preco": 14.94,
+   "preco_txt": "R$ 14,94"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Coronita Extra GRF 330ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 25.2,
+   "preco_txt": "R$ 25,20"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Coronita Extra Nacional GRF 210ml",
+   "embalagem": "Fardo (15 un)",
+   "preco": 14.94,
+   "preco_txt": "R$ 14,94"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Franziskaner Weissbier Dunkel GRF 500ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 122.4,
+   "preco_txt": "R$ 122,40"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Goose Island IPA GRF 355ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 78.0,
+   "preco_txt": "R$ 78,00"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Goose Island Midway GRF 355ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 78.0,
+   "preco_txt": "R$ 78,00"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Hoegaarden GRF 330ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 78.0,
+   "preco_txt": "R$ 78,00"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Hoegaarden Grand Cru GRF 330ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 250.8,
+   "preco_txt": "R$ 250,80"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Hoegaarden Rosée GRF 750ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 282.0,
+   "preco_txt": "R$ 282,00"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Kona Big Wave GRF 355ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 78.0,
+   "preco_txt": "R$ 78,00"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Longboard GRF 355ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 78.0,
+   "preco_txt": "R$ 78,00"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Leffe Brune-Brown GRF 330ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 250.0,
+   "preco_txt": "R$ 250,00"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Leffe Rituel 9 GRF 250ml",
+   "embalagem": "Fardo (15 un)",
+   "preco": 142.8,
+   "preco_txt": "R$ 142,80"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Leffe Ruby GRF 750ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 198.0,
+   "preco_txt": "R$ 198,00"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Liber GRF 355ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 25.92,
+   "preco_txt": "R$ 25,92"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Liber Lata 350ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 23.4,
+   "preco_txt": "R$ 23,40"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Patagônia Amber GRF 355ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 82.8,
+   "preco_txt": "R$ 82,80"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Patagônia Amber GRF 740ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 65.4,
+   "preco_txt": "R$ 65,40"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Patagônia Amber Lata 473ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 46.8,
+   "preco_txt": "R$ 46,80"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Patagônia Bohemian GRF 355ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 82.8,
+   "preco_txt": "R$ 82,80"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Patagônia Bohemian GRF 740ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 130.8,
+   "preco_txt": "R$ 130,80"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Patagônia Bohemian Lata 473ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 46.8,
+   "preco_txt": "R$ 46,80"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Patagônia Weiss GRF 355ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 82.8,
+   "preco_txt": "R$ 82,80"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Patagônia Weiss GRF 740ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 130.4,
+   "preco_txt": "R$ 130,40"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Patagônia Weiss Lata 473ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 46.8,
+   "preco_txt": "R$ 46,80"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Patrícia GRF 300ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 48.0,
+   "preco_txt": "R$ 48,00"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Patrícia GRF 960ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 144.72,
+   "preco_txt": "R$ 144,72"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Quilmes GRF 330ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 43.56,
+   "preco_txt": "R$ 43,56"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Quilmes GRF 970ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 84.0,
+   "preco_txt": "R$ 84,00"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Serramalte Lata 350ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 29.88,
+   "preco_txt": "R$ 29,88"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Serramalte GRF 300ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 33.0,
+   "preco_txt": "R$ 33,00"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Serramalte GRF 600ml",
+   "embalagem": "Fardo (24 un)",
+   "preco": 131.0,
+   "preco_txt": "R$ 131,00"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Corona Extra GRF 355ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 58.68,
+   "preco_txt": "R$ 58,68"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Franziskaner Hefe-Weissbier GRF 500ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 178.8,
+   "preco_txt": "R$ 178,80"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Hoegaarden Wit Blanche GRF 330ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 120.96,
+   "preco_txt": "R$ 120,96"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Leffe Blonde GRF 330ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 100.56,
+   "preco_txt": "R$ 100,56"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Leffe Radieuse GRF 330ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 87.24,
+   "preco_txt": "R$ 87,24"
+  },
+  {
+   "categoria": "CERVEJAS DIVERSAS",
+   "nome": "Cerveja Norteña GRF 960ml",
+   "embalagem": "Fardo (12 un)",
+   "preco": 55.14,
+   "preco_txt": "R$ 55,14"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Vodka Smirnoff Ice GRF 275ml",
+   "embalagem": "Unidade",
+   "preco": 4.2,
+   "preco_txt": "R$ 4,20"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Vodka Smirnoff Ice Lata 269ml",
+   "embalagem": "Unidade",
+   "preco": 3.89,
+   "preco_txt": "R$ 3,89"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Bebida Mista Ice 51 Limão GRF 275ml",
+   "embalagem": "Unidade",
+   "preco": 3.19,
+   "preco_txt": "R$ 3,19"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Bebida Mista Ice 51 Maracujá GRF 275ml",
+   "embalagem": "Unidade",
+   "preco": 3.19,
+   "preco_txt": "R$ 3,19"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Bebida Mista Ice 51 Fruit Mix GRF 275ml",
+   "embalagem": "Unidade",
+   "preco": 3.19,
+   "preco_txt": "R$ 3,19"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Bebida Mista Ice 51 Citrus GRF 275ml",
+   "embalagem": "Unidade",
+   "preco": 3.19,
+   "preco_txt": "R$ 3,19"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Cachaça Corote Adoçada GRF 500ml",
+   "embalagem": "Unidade",
+   "preco": 2.08,
+   "preco_txt": "R$ 2,08"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Cachaça Corote Adoçada Limão GRF 500ml",
+   "embalagem": "Unidade",
+   "preco": 2.19,
+   "preco_txt": "R$ 2,19"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Cachaça Corote Adoçada Blueberry GRF 500ml",
+   "embalagem": "Unidade",
+   "preco": 2.19,
+   "preco_txt": "R$ 2,19"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Cachaça Corote Adoçada Melancia GRF 500ml",
+   "embalagem": "Unidade",
+   "preco": 2.19,
+   "preco_txt": "R$ 2,19"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Cachaça Corote Adoçada Morango GRF 500ml",
+   "embalagem": "Unidade",
+   "preco": 2.19,
+   "preco_txt": "R$ 2,19"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Cachaça Corote Adoçada Canelinha GRF 500ml",
+   "embalagem": "Unidade",
+   "preco": 2.19,
+   "preco_txt": "R$ 2,19"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Cachaça Corote Adoçada Baunilha GRF 500ml",
+   "embalagem": "Unidade",
+   "preco": 2.19,
+   "preco_txt": "R$ 2,19"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Cachaça Corote Adoçada Maracujá GRF 500ml",
+   "embalagem": "Unidade",
+   "preco": 2.19,
+   "preco_txt": "R$ 2,19"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Vodka Smirnoff GRF 998ml",
+   "embalagem": "Unidade",
+   "preco": 24.22,
+   "preco_txt": "R$ 24,22"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Vodka Smirnoff GRF 1750ml",
+   "embalagem": "Unidade",
+   "preco": 47.1,
+   "preco_txt": "R$ 47,10"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Vodka Absolut GRF 1l",
+   "embalagem": "Unidade",
+   "preco": 57.3,
+   "preco_txt": "R$ 57,30"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Vodka Orloff GRF 1l",
+   "embalagem": "Unidade",
+   "preco": 21.8,
+   "preco_txt": "R$ 21,80"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Vodka Balalaika GRF 1l",
+   "embalagem": "Unidade",
+   "preco": 13.0,
+   "preco_txt": "R$ 13,00"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Licor 43 Tradicional GRF 700ml",
+   "embalagem": "Unidade",
+   "preco": 119.0,
+   "preco_txt": "R$ 119,00"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Jack Daniel's Honey GRF 1l",
+   "embalagem": "Unidade",
+   "preco": 115.0,
+   "preco_txt": "R$ 115,00"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Jack Daniel's Apple GRF 1l",
+   "embalagem": "Unidade",
+   "preco": 120.0,
+   "preco_txt": "R$ 120,00"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Jack Daniel's Fire GRF 1l",
+   "embalagem": "Unidade",
+   "preco": 105.0,
+   "preco_txt": "R$ 105,00"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Passport Scotch GRF 1l",
+   "embalagem": "Unidade",
+   "preco": 30.0,
+   "preco_txt": "R$ 30,00"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Johnnie Walker Red Label GRF 1l",
+   "embalagem": "Unidade",
+   "preco": 55.0,
+   "preco_txt": "R$ 55,00"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Ballantine's Finest Blended Scotch Whisky GRF 1l",
+   "embalagem": "Unidade",
+   "preco": 47.99,
+   "preco_txt": "R$ 47,99"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Whisky Black Blend 900ml",
+   "embalagem": "Unidade",
+   "preco": 23.9,
+   "preco_txt": "R$ 23,90"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Whisky Escocês Black & White 1l GRF",
+   "embalagem": "Unidade",
+   "preco": 37.99,
+   "preco_txt": "R$ 37,99"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Whisky Old Parr 12 anos 1l GRF",
+   "embalagem": "Unidade",
+   "preco": 120.0,
+   "preco_txt": "R$ 120,00"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Johnnie Walker Double Black GRF 1l",
+   "embalagem": "Unidade",
+   "preco": 170.0,
+   "preco_txt": "R$ 170,00"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Johnnie Walker Gold Label GRF 1l",
+   "embalagem": "Unidade",
+   "preco": 210.0,
+   "preco_txt": "R$ 210,00"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Gin Tanqueray GRF 750ml",
+   "embalagem": "Unidade",
+   "preco": 82.0,
+   "preco_txt": "R$ 82,00"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Gin Eternity 900ml Sabores",
+   "embalagem": "Unidade",
+   "preco": 9.9,
+   "preco_txt": "R$ 9,90"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Gin Seagers 1l GRF",
+   "embalagem": "Unidade",
+   "preco": 29.9,
+   "preco_txt": "R$ 29,90"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Gin Eternity 900ml GRF Tradicional e Sabores",
+   "embalagem": "Unidade",
+   "preco": 12.9,
+   "preco_txt": "R$ 12,90"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Gin Tanqueray Sevilla GRF 700ml",
+   "embalagem": "Unidade",
+   "preco": 95.0,
+   "preco_txt": "R$ 95,00"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Gin Tanqueray Royale GRF 700ml",
+   "embalagem": "Unidade",
+   "preco": 99.0,
+   "preco_txt": "R$ 99,00"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Gin Beefeater London Dry GRF 700ml",
+   "embalagem": "Unidade",
+   "preco": 90.0,
+   "preco_txt": "R$ 90,00"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Gin Rocks Original GRF 1l",
+   "embalagem": "Unidade",
+   "preco": 18.0,
+   "preco_txt": "R$ 18,00"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Gin Rocks Strawberry GRF 1l",
+   "embalagem": "Unidade",
+   "preco": 19.9,
+   "preco_txt": "R$ 19,90"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Conhaque Dreher GRF 900ml",
+   "embalagem": "Unidade",
+   "preco": 13.75,
+   "preco_txt": "R$ 13,75"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Conhaque Domecq GRF 1l",
+   "embalagem": "Unidade",
+   "preco": 24.76,
+   "preco_txt": "R$ 24,76"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Aguardente Pirassunga 51 GRF 965ml",
+   "embalagem": "Unidade",
+   "preco": 10.12,
+   "preco_txt": "R$ 10,12"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Aguardente Velho Barreiro GRF 910ml",
+   "embalagem": "Unidade",
+   "preco": 11.1,
+   "preco_txt": "R$ 11,10"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Whisky Buchanan's",
+   "embalagem": "Unidade",
+   "preco": 109.0,
+   "preco_txt": "R$ 109,00"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Whisky Royal Salute 21 anos GRF 1l",
+   "embalagem": "Unidade",
+   "preco": 650.0,
+   "preco_txt": "R$ 650,00"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Whisky White Horse GRF 700ml",
+   "embalagem": "Unidade",
+   "preco": 48.0,
+   "preco_txt": "R$ 48,00"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Vodka Askov GRF 900ml",
+   "embalagem": "Unidade",
+   "preco": 15.2,
+   "preco_txt": "R$ 15,20"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Vodka Natasha 900ml GRF",
+   "embalagem": "Fardo (6 un)",
+   "preco": 338.0,
+   "preco_txt": "R$ 338,00"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Canelinha da Rocha 900ml GRF",
+   "embalagem": "Unidade",
+   "preco": 10.9,
+   "preco_txt": "R$ 10,90"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Aguardente Pitu 350ml GRF",
+   "embalagem": "Fardo (6 un)",
+   "preco": 40.68,
+   "preco_txt": "R$ 40,68"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Aguardente Pitu 965ml GRF",
+   "embalagem": "Fardo (6 un)",
+   "preco": 106.08,
+   "preco_txt": "R$ 106,08"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Licor Amarula 750ml",
+   "embalagem": "Unidade",
+   "preco": 82.0,
+   "preco_txt": "R$ 82,00"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Aperitivo Campari GRF 900ml",
+   "embalagem": "Unidade",
+   "preco": 27.0,
+   "preco_txt": "R$ 27,00"
+  },
+  {
+   "categoria": "DESTILADOS / ICES / DIVERSOS",
+   "nome": "Vinho Rosé Piscine Stripes GRF 750ml",
+   "embalagem": "Unidade",
+   "preco": 75.0,
+   "preco_txt": "R$ 75,00"
+  }
+ ]
+}

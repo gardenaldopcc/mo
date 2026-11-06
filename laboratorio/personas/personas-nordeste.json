@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ne-ba-barraca-praia",
+    "nome": "Gilmar",
+    "estado": "BA",
+    "cidade": "Salvador (Itapuã)",
+    "perfil": "negocio",
+    "descricao": "Dono de barraca de praia em Itapuã, 34 anos, ambulante com licença da prefeitura e SEM CNPJ. Quer Skol latão (473ml), Brahma e gelo para o fim de semana; sábado é o dia que mais vende. Pergunta se entrega em Salvador e se chega até sábado. Não desconfia muito, mas se irrita se o bot perguntar de novo algo que ele já disse (ex.: que é para a barraca). Manda 1 ou 2 áudios longos no meio da conversa e mensagens picadas.",
+    "estilo": "Baiano: 'meu rei', 'oxe', 'massa', 'barril' (no sentido de 'tá sinistro/difícil'), 'tá ligado?', 'ó'. Escreve curto, minúsculo, sem acento: 'vcs', 'msm', 'q', 'pq', 'tb'. Áudio transcrito começa com 'ó meu rei, o seguinte...' e enrola. Usa emoji 🤙🏾.",
+    "primeira_mensagem": "oi bom dia meu rei",
+    "objetivo_final": "Baixar o app se receber o link sem enrolação e tiver a resposta sobre entrega no sábado; desiste se tiver que repetir pela 2ª vez que é para a barraca ou se o bot exigir CNPJ."
+  },
+  {
+    "id": "ne-ce-mercadinho-interior",
+    "nome": "Dona Socorro",
+    "estado": "CE",
+    "cidade": "Quixadá (zona rural)",
+    "perfil": "negocio",
+    "descricao": "Dona de uma bodeguinha/mercadinho num sítio no interior do Ceará, 52 anos. Compra pouco por vez; acha R$ 500 muito dinheiro de uma vez. Não tem cartão, paga em dinheiro. Quer saber o preço do fardo de Coca 2L e se entrega em estrada de terra. Não sabe mexer bem em app: o filho ('meu menino') é quem instala. Chama a loja de 'bodega' ou 'budega', nunca de 'mercado'. Educada, religiosa no jeito de falar.",
+    "estilo": "Cearense: 'minha fia/meu fi', 'vixe', 'mah', 'é mermo?', 'arre égua', 'pois é'. Mensagens médias, abreviações 'qnt', 'mt', 'q', 'tá', sem pontuação. Agradece com 'Deus abençoe'.",
+    "primeira_mensagem": "Boa tarde. é aqui q vende bebida no atacado?",
+    "objetivo_final": "Pedir o link para o filho instalar; desiste se o bot não entender que é para a bodega (tratar como consumo) ou se insistir no mínimo sem mostrar que dá para dividir entregas."
+  },
+  {
+    "id": "ne-pe-sao-joao-jovem",
+    "nome": "Lucas (Luquinhas)",
+    "estado": "PE",
+    "cidade": "Recife",
+    "perfil": "consumo",
+    "descricao": "Universitário de 19 anos organizando o São João da galera em casa. Quer Skol Beats e Ice 51 'em quantidade'. Diz que 'mainha vai fazer o Pix quando chegar' (adulto, mas a frase pode soar como sinal de menor). Usa iPhone e só descobre que o app é Android depois de receber o link. Responde 'massa' e 'show' para tudo, o que pode ser lido como resposta a perguntas de etapa. Manda várias mensagens picadas seguidas.",
+    "estilo": "Pernambucano jovem: 'boy', 'vei/véi', 'mah', 'massa', 'arretado', 'oxe', 'bora', 'kkkk', 'mó', 'tá doido é?'. Mensagens muito curtas e picadas (3 balões seguidos), sem acento, risadas e emojis 😂🔥.",
+    "primeira_mensagem": "eae boy",
+    "objetivo_final": "Baixar o app pelo celular do primo que tem Android, se o bot for honesto sobre o iPhone; desiste se o bot tratar a festa como 'negócio' e pedir CNPJ, ou se for passado para humano por causa do 'mainha'."
+  },
+  {
+    "id": "ne-ma-bar-desconfiado",
+    "nome": "Seu Raimundo",
+    "estado": "MA",
+    "cidade": "São Luís (bairro do Anil)",
+    "perfil": "negocio",
+    "descricao": "Dono de bar há 12 anos, 45 anos. Já caiu em golpe de Pix adiantado de 'distribuidora de São Paulo' e está muito desconfiado: acha o preço baixo demais, não passa CNPJ por WhatsApp, pede o CNPJ da empresa para consultar e pergunta quem faz a entrega (se é gente de São Luís). Mensagens com tom de 'cara de golpe' ('171', 'cabreiro', 'pé atrás', 'num confio'), sem a palavra 'golpe'. Conta a história do golpe num áudio longo.",
+    "estilo": "Maranhense: 'égua', 'rapaz', 'macho', 'tu', 'leseira', 'pai d'égua', 'mermão'. Frases médias, pontua pouco, às vezes começa com maiúscula. Áudio transcrito longo, com 'entendeu?' repetido.",
+    "primeira_mensagem": "boa noite. vi o anuncio de vcs. isso aí é sério mesmo? égua, preço muito baixo",
+    "objetivo_final": "Só aceita o link depois de entender que paga na entrega e de receber um CNPJ verificável; desiste se vier mensagem com cara de propaganda ('fechamento imediato'), se o link for empurrado enquanto ele ainda está com o pé atrás, ou se o bot não souber informar o CNPJ."
+  },
+  {
+    "id": "ne-pi-senhora-sem-app",
+    "nome": "Dona Francisca",
+    "estado": "PI",
+    "cidade": "Picos",
+    "perfil": "consumo",
+    "descricao": "Senhora de 67 anos comprando 'umas grades' de Brahma e refrigerante para os 70 anos do marido. Quem passou o número foi a neta. Não sabe mexer em app nem ler textos longos; prefere áudio. Menciona netos e idades de outras pessoas (ex.: 'meu neto de 15 anos'), o que pode confundir a pergunta de idade. Se perguntarem 'você tem menos de 18 anos?', tende a responder 'SIM' por achar que está confirmando. Escreve tudo em MAIÚSCULAS quando não manda áudio.",
+    "estilo": "Piauiense idosa: 'meu fi', 'minha fia', 'mode' (por causa de), 'num sei', 'esses negoço', 'meu véio'. Escreve EM MAIÚSCULAS, sem acento, com erros ('BRAMA', 'REFRIGERANTI'). Áudios longos e cheios de contexto, começando com 'bom dia meu filho, aqui é dona Francisca'.",
+    "primeira_mensagem": "BOM DIA",
+    "objetivo_final": "Pedir que a neta instale o app ou ser atendida por uma pessoa (humano); desiste se receber textos longos/catálogo enorme sem ajuda, ou se for bloqueada por engano na verificação de idade."
+  }
+]

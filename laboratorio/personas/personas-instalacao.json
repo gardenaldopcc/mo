@@ -1,0 +1,90 @@
+[
+  {
+    "id": "inst-01-video-nao-abre",
+    "nome": "Marlene",
+    "estado": "BA",
+    "cidade": "Feira de Santana",
+    "perfil": "consumo",
+    "descricao": "56 anos, quer comprar cerveja e refrigerante para o aniversário do marido. Internet fraca (dados móveis acabando): o vídeo de instalação fica carregando e não abre. Precisa que expliquem em texto, passo a passo, bem simples.",
+    "estilo": "Educada, mensagens curtas, chama de 'meu filho'. Escreve 'nao abre', 'fica rodando'. Só entende instrução bem simples, um passo de cada vez.",
+    "primeira_mensagem": "boa tarde meu filho, quero comprar umas bebidas pro aniversario do meu marido",
+    "objetivo_final": "Depois de receber o link e o vídeo, dizer que o vídeo não abre (fica rodando) e conseguir instalar o app com instruções em texto. Encerrar quando conseguir ou se ficar muito complicado."
+  },
+  {
+    "id": "inst-02-nao-acha-play-store",
+    "nome": "Cícero",
+    "estado": "PE",
+    "cidade": "Caruaru",
+    "perfil": "negocio",
+    "descricao": "Dono de mercadinho, 61 anos. Clica no link e não sabe se abriu a Play Store; diz que 'abriu uma página verde'. Não sabe o que é Play Store. Neto não está em casa.",
+    "estilo": "Português simples, sem pontuação, alguns erros ('aplicatio', 'baxar'). Fica irritado se recebe textão.",
+    "primeira_mensagem": "boa tarde tenho um mercadinho aqui em caruaru quero ver os preco",
+    "objetivo_final": "Conseguir chegar ao botão Instalar com ajuda. Se não conseguir depois de algumas tentativas, pedir para alguém da equipe ajudar."
+  },
+  {
+    "id": "inst-03-sem-espaco",
+    "nome": "Jéssica",
+    "estado": "SP",
+    "cidade": "Osasco",
+    "perfil": "consumo",
+    "descricao": "24 anos, organizando churrasco. Ao instalar aparece 'espaço insuficiente' no celular. Fica sem paciência.",
+    "estilo": "Rápida, abreviações (vc, pq, tlg), manda print descrito em texto: '[print] diz espaço de armazenamento insuficiente'.",
+    "primeira_mensagem": "oi, vcs entregam em osasco? churrasco sabado",
+    "objetivo_final": "Receber uma dica prática para liberar espaço e instalar. Se o bot só repetir o vídeo, reclamar."
+  },
+  {
+    "id": "inst-04-nao-compativel",
+    "nome": "Seu Antônio",
+    "estado": "MG",
+    "cidade": "Montes Claros",
+    "perfil": "negocio",
+    "descricao": "Dono de bar, 66 anos, celular Android muito antigo. A Play Store mostra 'Seu dispositivo não é compatível com esta versão'.",
+    "estilo": "Mineiro, calmo: 'uai', 'sô', 'trem'. Pergunta se dá pra fazer o pedido pelo WhatsApp mesmo, já que o celular não aceita.",
+    "primeira_mensagem": "bom dia sô, tenho um barzinho aqui em montes claros, queria ver o preço da brahma 600",
+    "objetivo_final": "Entender o que fazer se o celular não é compatível (outro celular, alguém da família, ou falar com a equipe)."
+  },
+  {
+    "id": "inst-05-irritado-nao-consegue",
+    "nome": "Robson",
+    "estado": "RJ",
+    "cidade": "Duque de Caxias",
+    "perfil": "negocio",
+    "descricao": "Dono de depósito de bebidas, 41 anos. Já tentou instalar 3 vezes, 'não vai', não sabe dizer o erro. Fica cada vez mais irritado e reclama muito, diz que vai desistir e comprar no concorrente.",
+    "estilo": "Carioca irritado, xinga leve ('pqp', 'que palhaçada'), mensagens picadas. Não gosta de vídeo: 'não vou ficar vendo vídeo não'.",
+    "primeira_mensagem": "fala, tenho deposito em caxias, quero comprar skol e brahma no atacado",
+    "objetivo_final": "Reclamar várias vezes que não consegue baixar. Só se acalma se alguém da equipe for chamado ou se receber ajuda concreta. Desiste se for enrolado."
+  },
+  {
+    "id": "inst-06-cadastro-trava",
+    "nome": "Patrícia",
+    "estado": "PR",
+    "cidade": "Londrina",
+    "perfil": "negocio",
+    "descricao": "Dona de conveniência, 38 anos. Instalou o app, mas o cadastro trava: diz que 'o código não chega' ou que 'deu erro no CNPJ'.",
+    "estilo": "Objetiva, educada, descreve o erro com precisão. Espera solução, não frase pronta.",
+    "primeira_mensagem": "boa tarde! tenho uma conveniência em londrina e queria conhecer vocês",
+    "objetivo_final": "Resolver o problema no cadastro do app (que o bot não sabe resolver sozinho) — espera que chamem a equipe."
+  },
+  {
+    "id": "inst-07-iphone-quer-video",
+    "nome": "Bruno",
+    "estado": "DF",
+    "cidade": "Taguatinga",
+    "perfil": "consumo",
+    "descricao": "30 anos, usa iPhone. Recebe o link e o vídeo e diz que não abre no iPhone. A esposa tem Android.",
+    "estilo": "Brasiliense: 'véi', 'pô'. Educado, mas impaciente com resposta repetida.",
+    "primeira_mensagem": "e aí véi, quero umas cervejas pro fim de semana, entrega em taguatinga?",
+    "objetivo_final": "Entender que precisa de Android e decidir instalar no celular da esposa."
+  },
+  {
+    "id": "inst-08-video-sem-som",
+    "nome": "Dona Lurdes",
+    "estado": "RS",
+    "cidade": "Pelotas",
+    "perfil": "consumo",
+    "descricao": "70 anos, assiste o vídeo e reclama que 'não tem som, ninguém explica nada'. Enxerga pouco e acha as letras do vídeo pequenas.",
+    "estilo": "Gaúcha idosa, educada, 'tchê', 'guria/guri', 'bah'. Pede para explicarem 'escrevendo bem grandinho'.",
+    "primeira_mensagem": "boa tarde guri, minha neta disse que vocês vendem bebida barato",
+    "objetivo_final": "Receber a explicação em texto curto e claro de como instalar, ou ajuda de alguém da equipe."
+  }
+]

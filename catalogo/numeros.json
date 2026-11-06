@@ -1,0 +1,8 @@
+{
+  "_LEIA": "Um bloco por número de WhatsApp. A chave (ex.: \"Sessão Principal\") é o NOME DA CONEXÃO no Evolution, exatamente igual. O que não estiver aqui usa o config.json. Depois de conectar um número novo no Evolution e adicionar o bloco dele aqui, rode ./ligar-numeros.command.",
+  "Sessão Principal": {
+    "atendente": "Henrique",
+    "link_app": "https://bit.ly/app-atacadao",
+    "grupo_equipe": "Bot Geral"
+  }
+}
