@@ -64,9 +64,12 @@ function Evo($metodo, $caminho, $corpo = $null) {
   $p = @{ Method = $metodo; Uri = "$Evolution$caminho"; Headers = @{ apikey = (LerEnv 'EVOLUTION_API_KEY') }
     ContentType = 'application/json; charset=utf-8'; TimeoutSec = 15 }
   if ($corpo) { $p.Body = $Utf8.GetBytes(($corpo | ConvertTo-Json -Depth 6)) }
-  Invoke-RestMethod @p
+  # O PowerShell do Windows lê a resposta sem UTF-8 e estraga acentos ("Número" vira "NÃºmero"); decodifica à mão
+  $r = Invoke-WebRequest @p -UseBasicParsing
+  $txt = $Utf8.GetString($r.RawContentStream.ToArray())
+  if ($txt.Trim()) { ($txt | ConvertFrom-Json) | ForEach-Object { $_ } }
 }
-function NomeInstancia($i) { foreach ($c in @($i.name, $i.instanceName, $i.instance.instanceName)) { if ($c) { return $c } }; '' }
+function NomeInstancia($i) { foreach ($c in @($i.name, $i.instanceName, $i.instance.instanceName)) { if ($c) { return ([string]$c).Normalize() } }; '' }
 function ListarConexoes {
   # Devolve lista de { nome, estado } ('open' = conectado)
   @(Evo GET '/instance/fetchInstances') | ForEach-Object {

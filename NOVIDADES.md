@@ -1,5 +1,8 @@
 # Novidades
 
+## 1.0.2
+- Corrige números com acento aparecendo como "Não criado" no painel e nas configurações.
+
 ## 1.0.1
 - Corrige a leitura da chave da OpenAI e os acentos no instalador do Windows.
 - Corrige a verificação de versão nova.
