@@ -4,7 +4,11 @@
 
 # Só um painel aberto por vez
 $mutex = New-Object Threading.Mutex($false, 'Local\ChatbotAtacadaoPainel')
-if (-not $mutex.WaitOne(0)) { exit 0 }
+if (-not $mutex.WaitOne(0)) {
+  Add-Type -AssemblyName System.Windows.Forms
+  [Windows.Forms.MessageBox]::Show("O painel já está aberto.`n`nEle fica no ícone ao lado do relógio. Se não aparecer, clique na setinha ^ perto do relógio.", 'Bot do WhatsApp') | Out-Null
+  exit 0
+}
 
 function Icone($cor) {
   $bmp = New-Object Drawing.Bitmap 32, 32; $g = [Drawing.Graphics]::FromImage($bmp); $g.SmoothingMode = 'AntiAlias'

@@ -18,7 +18,11 @@ function GH($caminho, [switch]$Bruto, $Saida) {
   $cab = @{ 'User-Agent' = 'chatbot-atualizador'; Accept = $(if ($Bruto) { 'application/vnd.github.raw' } else { 'application/vnd.github+json' }) }
   if ($Token) { $cab.Authorization = "Bearer $Token" }
   $p = @{ Uri = "https://api.github.com/repos/$Repo$caminho"; Headers = $cab; UseBasicParsing = $true; TimeoutSec = 120 }
-  if ($Saida) { Invoke-WebRequest @p -OutFile $Saida | Out-Null } else { (Invoke-WebRequest @p).Content }
+  if ($Saida) { Invoke-WebRequest @p -OutFile $Saida | Out-Null; return }
+  # O GitHub responde o arquivo bruto como binário; sem isto o PowerShell mostra os bytes ("49 46 48...")
+  $c = (Invoke-WebRequest @p).Content
+  if ($c -is [byte[]]) { $c = [Text.Encoding]::UTF8.GetString($c) }
+  $c.TrimStart([char]0xFEFF)
 }
 function Log($t) { New-Item -ItemType Directory -Force $PastaBackups | Out-Null; Add-Content -Path $ArqLog -Value "$(Get-Date -Format 'yyyy-MM-dd HH:mm') $t" -Encoding UTF8 }
 function Hash($arq) { (Get-FileHash -Algorithm SHA256 -LiteralPath $arq).Hash }

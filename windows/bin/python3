@@ -1,3 +1,4 @@
 #!/bin/sh
 # No Windows o Python se chama "python": este atalho deixa os scripts .command funcionarem
+export PYTHONUTF8=1
 exec python "$@"

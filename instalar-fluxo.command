@@ -1,4 +1,6 @@
 #!/bin/bash
+# No Windows o Python lê arquivos como cp1252 por padrão; força UTF-8 (os arquivos do fluxo têm acentos e emojis)
+export PYTHONUTF8=1 PYTHONIOENCODING=utf-8
 # Instala/atualiza o fluxo do chatbot no n8n. Pode rodar de novo sempre que o fluxo for atualizado.
 set -e
 cd "$(dirname "$0")"
@@ -20,11 +22,28 @@ if [ "${SO_FLUXO:-}" = 1 ]; then
   echo "▶ 3-4/6 Usando a chave e os modelos já instalados ($MODELO | $TRANSCRICAO)"
 else
 echo "▶ 3/6 Chave da OpenAI"
-if [ -z "$OPENAI_KEY" ]; then
+if [ -z "$OPENAI_KEY" ] && command -v powershell.exe >/dev/null 2>&1; then
+  # No Windows, colar dentro do Git Bash não funciona bem: lê a chave direto da área de transferência
+  read -r -p "   Copie a chave da OpenAI no site (Ctrl+C), volte aqui e aperte Enter: " _
+  OPENAI_KEY=$(powershell.exe -NoProfile -Command Get-Clipboard 2>/dev/null)
+  powershell.exe -NoProfile -Command "Set-Clipboard -Value ' '" >/dev/null 2>&1
+elif [ -z "$OPENAI_KEY" ]; then
   read -r -s -p "   Cole a sua chave da OpenAI (sk-...) e aperte Enter (ela não aparece na tela): " OPENAI_KEY; echo
 fi
-MODELOS=$(curl -s https://api.openai.com/v1/models -H "Authorization: Bearer $OPENAI_KEY" | python3 -c 'import sys,json; print("\n".join(sorted(m["id"] for m in json.load(sys.stdin).get("data",[]))))' 2>/dev/null || true)
-if [ -z "$MODELOS" ]; then echo "   ❌ Não consegui validar a chave da OpenAI. Confira a chave e se há créditos na conta."; exit 1; fi
+# No Windows a colagem pode trazer \r, espaços ou caracteres invisíveis junto da chave
+OPENAI_KEY=$(printf '%s' "$OPENAI_KEY" | tr -cd 'A-Za-z0-9_-')
+RESP=$(curl -sS -w '\n%{http_code}' https://api.openai.com/v1/models -H "Authorization: Bearer $OPENAI_KEY" 2>&1)
+CODIGO=$(printf '%s' "$RESP" | tail -n1)
+MODELOS=$(printf '%s' "$RESP" | grep -o '"id": *"[^"]*"' | sed 's/.*"\([^"]*\)"$/\1/' | tr -d '\r' | sort)
+if [ "$CODIGO" != 200 ] || [ -z "$MODELOS" ]; then
+  echo "   ❌ Não consegui validar a chave da OpenAI (resposta: $CODIGO, chave com ${#OPENAI_KEY} caracteres)."
+  case "$CODIGO" in
+    401) echo "      A OpenAI recusou a chave: confira se colou inteira (use o botão direito do mouse para colar)." ;;
+    429) echo "      Sem créditos ou limite atingido: confira o Billing da OpenAI." ;;
+    000) echo "      Sem conexão com a OpenAI: confira a internet ou o antivírus/firewall."; printf '%s\n' "$RESP" | head -n2 ;;
+  esac
+  exit 1
+fi
 # Testa um modelo de chat com os mesmos parâmetros que o fluxo usa (os que "pensam" usam parâmetros diferentes)
 testar_chat() {
   python3 - "$1" "$OPENAI_KEY" <<'PY'
